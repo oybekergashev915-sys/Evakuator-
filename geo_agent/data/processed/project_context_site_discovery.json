@@ -1,0 +1,38 @@
+{
+  "status": "blocked_homepage_fetch_failed",
+  "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+  "pages": [],
+  "brief": {},
+  "open_questions": [
+    "What are the exact product/service names and packages?",
+    "What is the primary conversion action?",
+    "Which pages should be treated as money pages?"
+  ],
+  "generated_at": "2026-08-30T16:38:30+00:00",
+  "collection_status": "blocked_homepage_fetch_failed",
+  "quality_gate": {
+    "status": "fail",
+    "checks": [],
+    "blocking_check_ids": [],
+    "missing_context_fields": [],
+    "not_applicable_schema_version": "geo-topic-agent.context-not-applicable.v1",
+    "not_applicable_allowed_fields": [
+      "conversion_actions",
+      "limitations_evidence",
+      "pricing_payment_evidence"
+    ],
+    "not_applicable_non_waivable_fields": [
+      "brand_surface",
+      "brand_variants",
+      "homepage",
+      "multiple_important_pages",
+      "product_mechanics",
+      "value_proposition"
+    ],
+    "accepted_not_applicable_fields": [],
+    "accepted_not_applicable_decisions": [],
+    "rejected_not_applicable_decisions": [],
+    "applied_not_applicable_fields": []
+  },
+  "errors": []
+}

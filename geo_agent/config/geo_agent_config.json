@@ -6,11 +6,14 @@
     "language": "ru"
   },
   "project": {
-    "domain": "",
+    "domain": "evakuator.uz",
     "brand": "",
-    "brand_variants": [],
-    "brand_variants_status": "missing",
-    "brand_variants_source": "not_provided",
+    "brand_variants": [
+      "evakuator.uz",
+      "evakuator"
+    ],
+    "brand_variants_status": "needs_user_confirmation",
+    "brand_variants_source": "agent_proposed",
     "target_goal": "both",
     "priority_topics": [],
     "semantic_cluster_queries": [],
@@ -19,7 +22,7 @@
     "products_services": [],
     "documents": [],
     "context_notes": "",
-    "site_discovery_approved": false,
+    "site_discovery_approved": true,
     "context_not_applicable_decisions": [],
     "audit_decisions": {}
   },

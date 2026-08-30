@@ -1,0 +1,141 @@
+{
+  "domain": "evakuator.uz",
+  "brand": "",
+  "brand_variants": [
+    "evakuator.uz",
+    "evakuator"
+  ],
+  "brand_variants_status": "needs_user_confirmation",
+  "brand_variants_source": "agent_proposed",
+  "brand_variants_confirmation_required": true,
+  "target_goal": "both",
+  "topic": "",
+  "topic_cluster_intake_deferred": false,
+  "semantic_cluster_queries": [],
+  "cluster_query_count": 0,
+  "semantic_cluster_topic": "",
+  "semantic_cluster_status": "missing",
+  "semantic_cluster_source": "not_provided",
+  "semantic_cluster_confirmed": false,
+  "semantic_cluster_confirmation_required": true,
+  "region": {
+    "country": "",
+    "city": "",
+    "language": "",
+    "scope_status": "unresolved",
+    "scope_provenance": "not_provided",
+    "google": {
+      "gl": "ru",
+      "hl": "ru"
+    },
+    "yandex": {
+      "lr": 213
+    },
+    "device": {
+      "default": "desktop",
+      "collect_mobile": false
+    }
+  },
+  "language": "",
+  "search_engines": [
+    "google",
+    "yandex"
+  ],
+  "competitors": [],
+  "site_pages": [],
+  "products_services": [],
+  "documents": [],
+  "site_discovery_approved": true,
+  "context_notes": "",
+  "context_not_applicable_decisions": [],
+  "audit_decisions": {},
+  "context_quality_gate": {
+    "status": "fail",
+    "site_context_status": "blocked_homepage_fetch_failed",
+    "brand_variants_status": "needs_user_confirmation",
+    "brand_variants_confirmed": false,
+    "brand_variants_waivable": false,
+    "material_open_questions": [
+      "What are the exact product/service names and packages?",
+      "What is the primary conversion action?",
+      "Which pages should be treated as money pages?"
+    ],
+    "missing_context_fields": [],
+    "accepted_not_applicable_fields": [],
+    "accepted_not_applicable_decisions": [],
+    "rejected_not_applicable_decisions": []
+  },
+  "context_acquisition": {
+    "documents_provided": false,
+    "site_discovery_approved": true,
+    "network_required_for_site_discovery": true,
+    "accessibility_audit_separate": true,
+    "deep_context_collection_status": "blocked",
+    "deep_context_completed_at": "",
+    "post_context_next_step": "confirm_brand_variants",
+    "deep_context_offer_required": false,
+    "deep_context_run_recommended": true,
+    "recommended_deep_context_max_pages": 30,
+    "recommended_deep_context_scope": [
+      "homepage",
+      "user-provided core landing pages",
+      "main product/service/course pages",
+      "header and navigation links",
+      "footer links",
+      "pricing, tariffs, payment, subscription, checkout",
+      "trial, demo, free-access, delivery or shipping pages when relevant",
+      "contacts, about/company/team/author, legal, terms, refund, requisites",
+      "cases, reviews, FAQ and trust pages"
+    ],
+    "recommended_deep_context_command": "python .geo-topic-agent-runtime/geo_agent_cli.py collect-context --domain \"evakuator.uz\" --allow-site-discovery --network-approved --max-pages 30",
+    "network_approved": true,
+    "site_html_dir": "",
+    "audit_access_was_not_run": true
+  },
+  "assumptions": [
+    "Brand was not provided.",
+    "Brand variants are not confirmed. Ask the user to confirm or edit all brand spellings, aliases, transliterations, domain spellings, and product-name aliases before citation visibility or monitoring work.",
+    "Topic was not provided.",
+    "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+    "Deep context remains lower-assurance until the user confirms all proposed brand variants."
+  ],
+  "updated_at": "2026-08-30T16:38:30+00:00",
+  "site_context": {
+    "status": "blocked_homepage_fetch_failed",
+    "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+    "pages": [],
+    "brief": {},
+    "open_questions": [
+      "What are the exact product/service names and packages?",
+      "What is the primary conversion action?",
+      "Which pages should be treated as money pages?"
+    ],
+    "generated_at": "2026-08-30T16:38:30+00:00",
+    "collection_status": "blocked_homepage_fetch_failed",
+    "quality_gate": {
+      "status": "fail",
+      "checks": [],
+      "blocking_check_ids": [],
+      "missing_context_fields": [],
+      "not_applicable_schema_version": "geo-topic-agent.context-not-applicable.v1",
+      "not_applicable_allowed_fields": [
+        "conversion_actions",
+        "limitations_evidence",
+        "pricing_payment_evidence"
+      ],
+      "not_applicable_non_waivable_fields": [
+        "brand_surface",
+        "brand_variants",
+        "homepage",
+        "multiple_important_pages",
+        "product_mechanics",
+        "value_proposition"
+      ],
+      "accepted_not_applicable_fields": [],
+      "accepted_not_applicable_decisions": [],
+      "rejected_not_applicable_decisions": [],
+      "applied_not_applicable_fields": []
+    },
+    "errors": []
+  }
+}
