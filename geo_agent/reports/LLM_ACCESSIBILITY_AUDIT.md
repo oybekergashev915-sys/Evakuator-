@@ -1,6 +1,6 @@
 # LLM_ACCESSIBILITY_AUDIT
 
-Generated: 2026-08-30T16:49:33+00:00
+Generated: 2026-08-30T17:22:00+00:00
 URL: https://evakuator.uz
 Network approved: True
 Render requested: False
@@ -9,13 +9,13 @@ Render requested: False
 
 | Layer | Status | Evidence |
 | --- | --- | --- |
-| Robots permission | [SKIP] | robots.txt was not fetched or could not be evaluated |
+| Robots permission | [OK] | robots tokens evaluated |
 | Ordinary server baseline | [OK] | ordinary browser baseline returned page content |
-| LLM/search bot HTTP probes with full User-Agent strings | [SKIP] | LLM/search bot HTTP probes were skipped |
+| LLM/search bot HTTP probes with full User-Agent strings | [OK] | bot probes used full HTTP User-Agent strings and returned accessible responses |
 | Rendered screenshot/text | [SKIP] | render flag not set |
-| Clean LLM-style content | [SKIP] | clean content extraction skipped |
-| Rendered vs clean-content parity | [SKIP] | clean content extraction skipped |
-| Commercial content correctness | [SKIP] | no content available for commercial audit |
+| Clean LLM-style content | [OK] | clean LLM-style content extracted |
+| Rendered vs clean-content parity | [SKIP] | rendered text is unavailable; screenshot comparison needs Playwright |
+| Commercial content correctness | [OK] | no commercial extraction warnings |
 
 ## Critical Issues
 
@@ -27,42 +27,42 @@ Render requested: False
 
 ## Robots Permission Summary
 
-- allowed tokens: none
+- allowed tokens: *, OAI-SearchBot, ChatGPT-User, GPTBot, Googlebot, Google-Extended, PerplexityBot, Perplexity-User, ClaudeBot, Claude-SearchBot, bingbot, BingPreview, YandexBot, YandexAccessibilityBot
 - blocked tokens: none
-- unknown tokens: *, OAI-SearchBot, ChatGPT-User, GPTBot, Googlebot, Google-Extended, PerplexityBot, Perplexity-User, ClaudeBot, Claude-SearchBot, bingbot, BingPreview, YandexBot, YandexAccessibilityBot
+- unknown tokens: none
 
 | Provider | Role | Robots token | HTTP User-Agent probe | Robots status | Allowed | Reason |
 | --- | --- | --- | --- | --- | --- | --- |
-| Generic | ordinary browser baseline | `*` | `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| OpenAI | AI search indexing | `OAI-SearchBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| OpenAI | ChatGPT user-triggered fetch | `ChatGPT-User` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| OpenAI | model-training crawler | `GPTBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.3; +https://openai.com/gptbot` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| Google | Google Search crawl/render | `Googlebot` | `Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| Google | Gemini/AI product control token | `Google-Extended` | `` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| Perplexity | AI answer crawler | `PerplexityBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| Perplexity | Perplexity user-triggered fetch | `Perplexity-User` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| Anthropic | Claude crawler | `ClaudeBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +https://www.anthropic.com/claudebot` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| Anthropic | Claude search fetch | `Claude-SearchBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| Microsoft | Bing/Copilot search crawl | `bingbot` | `Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| Microsoft | Bing preview fetch | `BingPreview` | `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36 BingPreview/1.0b` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| Yandex | Yandex main indexing | `YandexBot` | `Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
-| Yandex | Yandex availability/accessibility check | `YandexAccessibilityBot` | `Mozilla/5.0 (compatible; YandexAccessibilityBot/3.0; +http://yandex.com/bots)` | robots_unknown | None | URLError: <urlopen error Tunnel connection failed: 403 Forbidden> |
+| Generic | ordinary browser baseline | `*` | `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36` | allowed | True | matched robots.txt rules |
+| OpenAI | AI search indexing | `OAI-SearchBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot` | allowed | True | matched robots.txt rules |
+| OpenAI | ChatGPT user-triggered fetch | `ChatGPT-User` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot` | allowed | True | matched robots.txt rules |
+| OpenAI | model-training crawler | `GPTBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.3; +https://openai.com/gptbot` | allowed | True | matched robots.txt rules |
+| Google | Google Search crawl/render | `Googlebot` | `Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)` | allowed | True | matched robots.txt rules |
+| Google | Gemini/AI product control token | `Google-Extended` | `` | allowed | True | matched robots.txt rules |
+| Perplexity | AI answer crawler | `PerplexityBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)` | allowed | True | matched robots.txt rules |
+| Perplexity | Perplexity user-triggered fetch | `Perplexity-User` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)` | allowed | True | matched robots.txt rules |
+| Anthropic | Claude crawler | `ClaudeBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +https://www.anthropic.com/claudebot` | allowed | True | matched robots.txt rules |
+| Anthropic | Claude search fetch | `Claude-SearchBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot` | allowed | True | matched robots.txt rules |
+| Microsoft | Bing/Copilot search crawl | `bingbot` | `Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)` | allowed | True | matched robots.txt rules |
+| Microsoft | Bing preview fetch | `BingPreview` | `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36 BingPreview/1.0b` | allowed | True | matched robots.txt rules |
+| Yandex | Yandex main indexing | `YandexBot` | `Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)` | allowed | True | matched robots.txt rules |
+| Yandex | Yandex availability/accessibility check | `YandexAccessibilityBot` | `Mozilla/5.0 (compatible; YandexAccessibilityBot/3.0; +http://yandex.com/bots)` | allowed | True | matched robots.txt rules |
 
 ## Server Baseline
 
-- status: error
-- HTTP: 
-- summary: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
-- text chars: 0
-- main content risk: 
-- WAF signals: none
-- access barrier class: unknown
-- access barrier summary: request failed before HTML/code inspection
+- status: success
+- HTTP: 200
+- summary: HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected
+- text chars: 25860
+- main content risk: unknown
+- WAF signals: cloudflare
+- access barrier class: none_detected
+- access barrier summary: no page-level block markers detected
 - page block markers: none
 - form captcha markers: none
 - captcha outside forms: none
-- main text chars without forms: 
-- main block count without forms: 
+- main text chars without forms: 9041
+- main block count without forms: 62
 
 ## LLM User-Agent HTTP Matrix
 
@@ -70,24 +70,24 @@ HTTP probes must use the full `HTTP User-Agent` string below. The `Robots token`
 
 | Provider | Role | Robots token | HTTP User-Agent | HTTP status | Status | Text chars | Delta | Barrier | WAF signals | Summary |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| OpenAI | AI search indexing | `OAI-SearchBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
-| OpenAI | ChatGPT user-triggered fetch | `ChatGPT-User` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
-| OpenAI | model-training crawler | `GPTBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.3; +https://openai.com/gptbot` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
-| Google | Google Search crawl/render | `Googlebot` | `Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
-| Perplexity | AI answer crawler | `PerplexityBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
-| Perplexity | Perplexity user-triggered fetch | `Perplexity-User` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
-| Anthropic | Claude crawler | `ClaudeBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +https://www.anthropic.com/claudebot` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
-| Anthropic | Claude search fetch | `Claude-SearchBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
-| Microsoft | Bing/Copilot search crawl | `bingbot` | `Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
-| Microsoft | Bing preview fetch | `BingPreview` | `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36 BingPreview/1.0b` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
-| Yandex | Yandex main indexing | `YandexBot` | `Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
-| Yandex | Yandex availability/accessibility check | `YandexAccessibilityBot` | `Mozilla/5.0 (compatible; YandexAccessibilityBot/3.0; +http://yandex.com/bots)` |  | skipped | 0 |  |  | none | skipped_baseline_blocked |
+| OpenAI | AI search indexing | `OAI-SearchBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
+| OpenAI | ChatGPT user-triggered fetch | `ChatGPT-User` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
+| OpenAI | model-training crawler | `GPTBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.3; +https://openai.com/gptbot` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
+| Google | Google Search crawl/render | `Googlebot` | `Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
+| Perplexity | AI answer crawler | `PerplexityBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
+| Perplexity | Perplexity user-triggered fetch | `Perplexity-User` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
+| Anthropic | Claude crawler | `ClaudeBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +https://www.anthropic.com/claudebot` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
+| Anthropic | Claude search fetch | `Claude-SearchBot` | `Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
+| Microsoft | Bing/Copilot search crawl | `bingbot` | `Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
+| Microsoft | Bing preview fetch | `BingPreview` | `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36 BingPreview/1.0b` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
+| Yandex | Yandex main indexing | `YandexBot` | `Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
+| Yandex | Yandex availability/accessibility check | `YandexAccessibilityBot` | `Mozilla/5.0 (compatible; YandexAccessibilityBot/3.0; +http://yandex.com/bots)` | 200 | success | 25860 | 0 | none_detected | cloudflare | HTTP 200, 72674 bytes, text_chars=25860, barrier=none_detected |
 
 ## Render And Clean Content
 
-- clean extraction status: skipped
-- clean text chars: 0
-- clean text ref: 
+- clean extraction status: success
+- clean text chars: 9657
+- clean text ref: geo_agent/data/raw/llm-accessibility/evakuator-uz-a655cb38092e/llm_clean_content.txt
 - render status: skipped
 - screenshot: 
 - rendered text ref: 
@@ -95,7 +95,7 @@ HTTP probes must use the full `HTTP User-Agent` string below. The `Robots token`
 ## Block Parity
 
 - status: skipped
-- summary: clean content extraction skipped
+- summary: rendered text is unavailable; screenshot comparison needs Playwright
 - rendered blocks: 
 - clean blocks: 
 
@@ -109,7 +109,7 @@ HTTP probes must use the full `HTTP User-Agent` string below. The `Robots token`
 
 ## Commercial Correctness
 
-- status: skipped
+- status: pass
 - no commercial extraction warnings
 
 ### Extracted Commercial Signals
@@ -118,7 +118,7 @@ HTTP probes must use the full `HTTP User-Agent` string below. The `Robots token`
 - rendered prices: none
 - struck/old-price markers in HTML: False
 - struck/old-price text: none
-- CTA terms: none
+- CTA terms: Оставить заявку, заказа
 
 ## Manual Recheck Rule
 

@@ -1,3 +1,5 @@
 ﻿competitor_id,url,domain,fetch_status,fetch_method,quality_status,word_count,heading_count,commercial_signals,source_ref,fetch_error,next_action
-cmp_001,https://166.uz,166.uz,blocked,http,blocked,0,0,,,network approval missing,collect_with_browser_or_provide_snapshot
-cmp_002,https://olx.uz,olx.uz,blocked,http,blocked,0,0,,,network approval missing,collect_with_browser_or_provide_snapshot
+cmp_001,https://166.uz,166.uz,success,http,pass,916,58,price | service,/home/user/Evakuator-/geo_agent/data/raw/pages/page_tz_a171d570d3b9/cmp_001_166-uz.html,,use_content
+cmp_002,https://olx.uz,olx.uz,blocked,http,blocked,0,0,,,HTTPError: HTTP Error 403: Forbidden,collect_with_browser_or_provide_snapshot
+cmp_003,https://166.uz/cena-evakuatora-v-tashkente,166.uz,success,http,pass,643,20,price | faq,/home/user/Evakuator-/geo_agent/data/raw/pages/page_tz_a171d570d3b9/cmp_003_166-uz.html,,use_content
+cmp_004,https://m.olx.uz,m.olx.uz,blocked,http,blocked,0,0,,,HTTPError: HTTP Error 403: Forbidden,collect_with_browser_or_provide_snapshot

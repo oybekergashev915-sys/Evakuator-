@@ -1,17 +1,17 @@
 # PAGE_TZ_GENERATION
 
-Generated: 2026-08-30T17:17:39+00:00
+Generated: 2026-08-30T17:22:43+00:00
 Topic: Услуги эвакуатора
 
 ## Counts
 
-- Competitors selected: 2
-- Parse pass/warn: 0
+- Competitors selected: 4
+- Parse pass/warn: 2
 - Parse blocked: 2
-- N-grams total: 0
-- 1-grams: 0
-- 2-grams: 0
-- 3-grams: 0
+- N-grams total: 150
+- 1-grams: 40
+- 2-grams: 70
+- 3-grams: 40
 - N-gram density fields: median_density_pct, recommended_density_pct, recommended_occurrences_per_1000_words
 - Chunks: 5
 
@@ -27,10 +27,10 @@ Topic: Услуги эвакуатора
 - ngrams: geo_agent/data/processed/услуги-эвакуатора_tz_ngrams.csv
 - chunks: geo_agent/data/processed/услуги-эвакуатора_tz_chunks.csv
 - json: geo_agent/data/processed/услуги-эвакуатора_page_tz.json
-- page_tz: geo_agent/reports/PAGE_TZ_BLOCKED.md
+- page_tz: geo_agent/reports/PAGE_TZ.md
 - quality_gate: geo_agent/data/quality-gates/услуги-эвакуатора_page_tz_quality.json
 
 ## Quality Notes
 
-- cmp_001 166.uz: blocked - network approval missing
-- cmp_002 olx.uz: blocked - network approval missing
+- cmp_002 olx.uz: blocked - HTTPError: HTTP Error 403: Forbidden
+- cmp_004 m.olx.uz: blocked - HTTPError: HTTP Error 403: Forbidden
