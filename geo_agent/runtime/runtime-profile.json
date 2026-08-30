@@ -1,0 +1,22 @@
+{
+  "active_runtime": "claude",
+  "confidence": "explicit",
+  "source": "setup_argument",
+  "requested_runtime": "claude",
+  "markers": {
+    "codex": [],
+    "claude": [
+      "CLAUDE.md"
+    ],
+    "cursor": [],
+    "opencode": [],
+    "antigravity": [],
+    "generic": [],
+    "cli": [],
+    "node": []
+  },
+  "present_runtimes": [
+    "claude"
+  ],
+  "generated_at": "2026-08-30T16:36:03+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "active_runtime": "claude",
+  "apply_allowed": true,
+  "managed_runtime_root": "/home/user/Evakuator-/.geo-topic-agent-runtime",
+  "cleanup_mode": "retain_canonical_adapters_install_active_native_bootstrap_only",
+  "actions": [],
+  "kept_entrypoints": [
+    ".claude",
+    "AGENTS.md",
+    "CLAUDE.md"
+  ],
+  "active_adapter": "adapters/CLAUDE.md",
+  "generated_at": "2026-08-30T16:36:03+00:00",
+  "plan_hash": "68fe8fd0decbfe1c27033ad27c1a93404bca8289de10ebc8a07558a64784588f",
+  "apply_requested": false,
+  "reviewed_plan_hash": "",
+  "applied": false,
+  "applied_actions": []
+}

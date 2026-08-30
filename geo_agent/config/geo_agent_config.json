@@ -1,0 +1,147 @@
+{
+  "agent": {
+    "name": "geo-topic-agent",
+    "mode": "interactive",
+    "storage": "csv_json",
+    "language": "ru"
+  },
+  "project": {
+    "domain": "",
+    "brand": "",
+    "brand_variants": [],
+    "brand_variants_status": "missing",
+    "brand_variants_source": "not_provided",
+    "target_goal": "both",
+    "priority_topics": [],
+    "semantic_cluster_queries": [],
+    "competitors": [],
+    "site_pages": [],
+    "products_services": [],
+    "documents": [],
+    "context_notes": "",
+    "site_discovery_approved": false,
+    "context_not_applicable_decisions": [],
+    "audit_decisions": {}
+  },
+  "region": {
+    "country": "",
+    "city": "",
+    "language": "",
+    "scope_status": "unresolved",
+    "scope_provenance": "not_provided",
+    "google": {
+      "gl": "ru",
+      "hl": "ru"
+    },
+    "yandex": {
+      "lr": 213
+    },
+    "device": {
+      "default": "desktop",
+      "collect_mobile": false
+    }
+  },
+  "search_engines": {
+    "google": {
+      "enabled": true,
+      "provider": "xmlriver",
+      "depth": 20
+    },
+    "yandex": {
+      "enabled": true,
+      "provider": "xmlriver",
+      "depth": 20
+    },
+    "bing": {
+      "enabled": false,
+      "provider": "manual_or_existing",
+      "depth": 20
+    },
+    "brave": {
+      "enabled": false,
+      "provider": "manual_or_existing",
+      "depth": 20
+    }
+  },
+  "xmlriver": {
+    "enabled": true,
+    "use_existing_client": true,
+    "env_key_aliases": [
+      "XMLRIVER_USER",
+      "XMLRIVER_KEY"
+    ]
+  },
+  "ai_answers": {
+    "enabled": false,
+    "provider": "existing_or_manual",
+    "collect_raw": true,
+    "extract_citations": true,
+    "repeat_runs": 3,
+    "manual_import_template": "geo_agent/data/import/ai_answers_template.csv"
+  },
+  "outputs": {
+    "reports_dir": "geo_agent/reports",
+    "data_dir": "geo_agent/data",
+    "handoff_dir": "geo_agent/data/handoff"
+  },
+  "budgets": {
+    "max_serp_queries_without_explicit_approval": 50,
+    "max_repair_iterations": 3,
+    "max_runtime_minutes": 60
+  },
+  "runtime": {
+    "profile": {
+      "active_runtime": "claude",
+      "confidence": "explicit",
+      "source": "setup_argument",
+      "requested_runtime": "claude",
+      "markers": {
+        "codex": [],
+        "claude": [
+          "CLAUDE.md"
+        ],
+        "cursor": [],
+        "opencode": [],
+        "antigravity": [],
+        "generic": [],
+        "cli": [],
+        "node": []
+      },
+      "present_runtimes": [
+        "claude"
+      ],
+      "generated_at": "2026-08-30T16:36:03+00:00"
+    },
+    "birth_plan": {
+      "active_runtime": "claude",
+      "apply_allowed": true,
+      "managed_runtime_root": "/home/user/Evakuator-/.geo-topic-agent-runtime",
+      "cleanup_mode": "retain_canonical_adapters_install_active_native_bootstrap_only",
+      "actions": [],
+      "kept_entrypoints": [
+        ".claude",
+        "AGENTS.md",
+        "CLAUDE.md"
+      ],
+      "active_adapter": "adapters/CLAUDE.md",
+      "generated_at": "2026-08-30T16:36:03+00:00",
+      "plan_hash": "68fe8fd0decbfe1c27033ad27c1a93404bca8289de10ebc8a07558a64784588f"
+    },
+    "applied_actions": []
+  },
+  "discovery": {
+    "updated_at": "2026-08-30T16:36:03+00:00",
+    "project_root": "/home/user/Evakuator-",
+    "env_files": [
+      "/home/user/Evakuator-/.env.example"
+    ],
+    "env_keys_present_masked": {},
+    "matches_count": 0,
+    "matches_preview": [],
+    "semantic_tz_generators": [],
+    "xmlriver_clients": [],
+    "ai_answer_modules": [],
+    "serp_modules": [],
+    "scan_neighbors": false
+  }
+}
