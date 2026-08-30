@@ -1,8 +1,8 @@
 # STATE
 
-Last action: Project context collected for evakuator.uz
+Last action: LLM accessibility audit prepared for https://evakuator.uz
 
-Updated: 2026-08-30T16:47:58+00:00
+Updated: 2026-08-30T16:49:33+00:00
 
 Last action status: completed
 
@@ -10,9 +10,8 @@ Blockers:
 - not evaluated by this action; inspect the latest structured CLI observation
 
 Evidence refs:
-- geo_agent/reports/PROJECT_CONTEXT.md
-- geo_agent/data/processed/project_context_site_discovery.json
-- geo_agent/data/processed/project_context_pages.csv
+- geo_agent/reports/LLM_ACCESSIBILITY_AUDIT.md
+- geo_agent/data/processed/llm_accessibility_audit.json
 
 Next valid actions:
 - review the latest structured CLI observation before starting another stage

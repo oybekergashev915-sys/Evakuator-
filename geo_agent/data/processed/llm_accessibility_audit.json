@@ -1,0 +1,360 @@
+{
+  "url": "https://evakuator.uz",
+  "network_approved": true,
+  "render_requested": false,
+  "robots_url": "https://evakuator.uz/robots.txt",
+  "robots_response": {
+    "status": "error",
+    "url": "https://evakuator.uz/robots.txt",
+    "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+    "waf_signals": [],
+    "text_chars": 0,
+    "access_barrier": {
+      "class": "unknown",
+      "summary": "request failed before HTML/code inspection"
+    },
+    "access_barrier_class": "unknown"
+  },
+  "robots_matrix": [
+    {
+      "id": "generic_browser",
+      "provider": "Generic",
+      "role": "ordinary browser baseline",
+      "robots_token": "*",
+      "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "openai_searchbot",
+      "provider": "OpenAI",
+      "role": "AI search indexing",
+      "robots_token": "OAI-SearchBot",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "chatgpt_user",
+      "provider": "OpenAI",
+      "role": "ChatGPT user-triggered fetch",
+      "robots_token": "ChatGPT-User",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "gptbot",
+      "provider": "OpenAI",
+      "role": "model-training crawler",
+      "robots_token": "GPTBot",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.3; +https://openai.com/gptbot",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "googlebot",
+      "provider": "Google",
+      "role": "Google Search crawl/render",
+      "robots_token": "Googlebot",
+      "http_user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "google_extended",
+      "provider": "Google",
+      "role": "Gemini/AI product control token",
+      "robots_token": "Google-Extended",
+      "http_user_agent": "",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "perplexitybot",
+      "provider": "Perplexity",
+      "role": "AI answer crawler",
+      "robots_token": "PerplexityBot",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "perplexity_user",
+      "provider": "Perplexity",
+      "role": "Perplexity user-triggered fetch",
+      "robots_token": "Perplexity-User",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "claudebot",
+      "provider": "Anthropic",
+      "role": "Claude crawler",
+      "robots_token": "ClaudeBot",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +https://www.anthropic.com/claudebot",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "claude_searchbot",
+      "provider": "Anthropic",
+      "role": "Claude search fetch",
+      "robots_token": "Claude-SearchBot",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "bingbot",
+      "provider": "Microsoft",
+      "role": "Bing/Copilot search crawl",
+      "robots_token": "bingbot",
+      "http_user_agent": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "bingpreview",
+      "provider": "Microsoft",
+      "role": "Bing preview fetch",
+      "robots_token": "BingPreview",
+      "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36 BingPreview/1.0b",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "yandexbot",
+      "provider": "Yandex",
+      "role": "Yandex main indexing",
+      "robots_token": "YandexBot",
+      "http_user_agent": "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "id": "yandex_accessibility",
+      "provider": "Yandex",
+      "role": "Yandex availability/accessibility check",
+      "robots_token": "YandexAccessibilityBot",
+      "http_user_agent": "Mozilla/5.0 (compatible; YandexAccessibilityBot/3.0; +http://yandex.com/bots)",
+      "robots_allowed": null,
+      "robots_status": "robots_unknown",
+      "reason": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    }
+  ],
+  "server_baseline": {
+    "status": "error",
+    "url": "https://evakuator.uz",
+    "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+    "waf_signals": [],
+    "text_chars": 0,
+    "access_barrier": {
+      "class": "unknown",
+      "summary": "request failed before HTML/code inspection"
+    },
+    "access_barrier_class": "unknown"
+  },
+  "llm_user_agent_matrix": [
+    {
+      "id": "openai_searchbot",
+      "provider": "OpenAI",
+      "role": "AI search indexing",
+      "robots_token": "OAI-SearchBot",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    },
+    {
+      "id": "chatgpt_user",
+      "provider": "OpenAI",
+      "role": "ChatGPT user-triggered fetch",
+      "robots_token": "ChatGPT-User",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    },
+    {
+      "id": "gptbot",
+      "provider": "OpenAI",
+      "role": "model-training crawler",
+      "robots_token": "GPTBot",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.3; +https://openai.com/gptbot",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    },
+    {
+      "id": "googlebot",
+      "provider": "Google",
+      "role": "Google Search crawl/render",
+      "robots_token": "Googlebot",
+      "http_user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    },
+    {
+      "id": "perplexitybot",
+      "provider": "Perplexity",
+      "role": "AI answer crawler",
+      "robots_token": "PerplexityBot",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    },
+    {
+      "id": "perplexity_user",
+      "provider": "Perplexity",
+      "role": "Perplexity user-triggered fetch",
+      "robots_token": "Perplexity-User",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    },
+    {
+      "id": "claudebot",
+      "provider": "Anthropic",
+      "role": "Claude crawler",
+      "robots_token": "ClaudeBot",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +https://www.anthropic.com/claudebot",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    },
+    {
+      "id": "claude_searchbot",
+      "provider": "Anthropic",
+      "role": "Claude search fetch",
+      "robots_token": "Claude-SearchBot",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    },
+    {
+      "id": "bingbot",
+      "provider": "Microsoft",
+      "role": "Bing/Copilot search crawl",
+      "robots_token": "bingbot",
+      "http_user_agent": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    },
+    {
+      "id": "bingpreview",
+      "provider": "Microsoft",
+      "role": "Bing preview fetch",
+      "robots_token": "BingPreview",
+      "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36 BingPreview/1.0b",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    },
+    {
+      "id": "yandexbot",
+      "provider": "Yandex",
+      "role": "Yandex main indexing",
+      "robots_token": "YandexBot",
+      "http_user_agent": "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    },
+    {
+      "id": "yandex_accessibility",
+      "provider": "Yandex",
+      "role": "Yandex availability/accessibility check",
+      "robots_token": "YandexAccessibilityBot",
+      "http_user_agent": "Mozilla/5.0 (compatible; YandexAccessibilityBot/3.0; +http://yandex.com/bots)",
+      "status": "skipped",
+      "summary": "skipped_baseline_blocked",
+      "http_status": "",
+      "waf_signals": [],
+      "text_chars": 0
+    }
+  ],
+  "content_extraction": {
+    "status": "skipped",
+    "summary": "no HTML body available",
+    "text_chars": 0,
+    "blocks": []
+  },
+  "render": {
+    "status": "skipped",
+    "summary": "render flag not set"
+  },
+  "content_parity": {
+    "status": "skipped",
+    "summary": "clean content extraction skipped",
+    "missing_rendered_blocks": [],
+    "extra_clean_blocks": []
+  },
+  "commercial_audit": {
+    "status": "skipped",
+    "summary": "no content available for commercial audit",
+    "warnings": [],
+    "clean_signals": {
+      "prices": [],
+      "discount_terms": [],
+      "cta_terms": [],
+      "service_terms": [],
+      "struck_price_markers": false,
+      "struck_price_text": [],
+      "hidden_commercial_risk": false
+    },
+    "rendered_signals": {
+      "prices": [],
+      "discount_terms": [],
+      "cta_terms": [],
+      "service_terms": [],
+      "struck_price_markers": false,
+      "struck_price_text": [],
+      "hidden_commercial_risk": false
+    }
+  },
+  "generated_at": "2026-08-30T16:49:33+00:00"
+}

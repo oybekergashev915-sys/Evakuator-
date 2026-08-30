@@ -1,0 +1,117 @@
+{
+  "domain": "evakuator.uz",
+  "network_approved": true,
+  "robots": {
+    "status": "error",
+    "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  "sitemap": {
+    "status": "error",
+    "http_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  "user_agent_matrix": [
+    {
+      "status": "error",
+      "http_user_agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+      "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "id": "googlebot",
+      "provider": "Google",
+      "role": "Google Search crawl/render",
+      "robots_token": "Googlebot",
+      "user_agent": "Googlebot"
+    },
+    {
+      "status": "error",
+      "http_user_agent": "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+      "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "id": "bingbot",
+      "provider": "Microsoft",
+      "role": "Bing/Copilot search crawl",
+      "robots_token": "bingbot",
+      "user_agent": "bingbot"
+    },
+    {
+      "status": "error",
+      "http_user_agent": "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)",
+      "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "id": "yandexbot",
+      "provider": "Yandex",
+      "role": "Yandex main indexing",
+      "robots_token": "YandexBot",
+      "user_agent": "YandexBot"
+    },
+    {
+      "status": "error",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot",
+      "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "id": "openai_searchbot",
+      "provider": "OpenAI",
+      "role": "AI search indexing",
+      "robots_token": "OAI-SearchBot",
+      "user_agent": "OAI-SearchBot"
+    },
+    {
+      "status": "error",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",
+      "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "id": "chatgpt_user",
+      "provider": "OpenAI",
+      "role": "ChatGPT user-triggered fetch",
+      "robots_token": "ChatGPT-User",
+      "user_agent": "ChatGPT-User"
+    },
+    {
+      "status": "error",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.3; +https://openai.com/gptbot",
+      "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "id": "gptbot",
+      "provider": "OpenAI",
+      "role": "model-training crawler",
+      "robots_token": "GPTBot",
+      "user_agent": "GPTBot"
+    },
+    {
+      "status": "error",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ClaudeBot/1.0; +https://www.anthropic.com/claudebot",
+      "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "id": "claudebot",
+      "provider": "Anthropic",
+      "role": "Claude crawler",
+      "robots_token": "ClaudeBot",
+      "user_agent": "ClaudeBot"
+    },
+    {
+      "status": "error",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; Claude-SearchBot/1.0; +https://www.anthropic.com/claude-searchbot",
+      "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "id": "claude_searchbot",
+      "provider": "Anthropic",
+      "role": "Claude search fetch",
+      "robots_token": "Claude-SearchBot",
+      "user_agent": "Claude-SearchBot"
+    },
+    {
+      "status": "error",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",
+      "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "id": "perplexitybot",
+      "provider": "Perplexity",
+      "role": "AI answer crawler",
+      "robots_token": "PerplexityBot",
+      "user_agent": "PerplexityBot"
+    },
+    {
+      "status": "error",
+      "http_user_agent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Perplexity-User/1.0; +https://perplexity.ai/perplexity-user)",
+      "summary": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "id": "perplexity_user",
+      "provider": "Perplexity",
+      "role": "Perplexity user-triggered fetch",
+      "robots_token": "Perplexity-User",
+      "user_agent": "Perplexity-User"
+    }
+  ],
+  "generated_at": "2026-08-30T16:49:33+00:00"
+}
