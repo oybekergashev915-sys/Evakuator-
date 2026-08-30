@@ -1,6 +1,6 @@
 # TZ_HANDOFF_REPORT
 
-Generated: 2026-08-30T16:56:03+00:00
+Generated: 2026-08-30T17:09:42+00:00
 
 ## Handoff
 
@@ -12,9 +12,9 @@ Generated: 2026-08-30T16:56:03+00:00
 ## Included Evidence
 
 - Fan-out queries: 380
-- SERP rows: 0
-- AI answer rows: 0
-- Content plan items: 191
+- SERP rows: 58
+- AI answer rows: 3
+- Content plan items: 192
 
 ## Boundary
 

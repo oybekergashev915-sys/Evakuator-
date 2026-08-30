@@ -6,21 +6,242 @@
     "EVAKUATOR.UZ",
     "OOO MADAT LOGISTICS"
   ],
-  "serp_row_count": 0,
-  "ai_answer_row_count": 0,
-  "project_serp_hits": [],
+  "serp_row_count": 58,
+  "ai_answer_row_count": 3,
+  "project_serp_hits": [
+    {
+      "query": "evakuator",
+      "engine": "yandex",
+      "position": 4,
+      "url": "https://evakuator.uz",
+      "title": "Эвакуатор Ташкент 24/7 — вызов от 200 000 сум | Evakuator.uz",
+      "snippet": "Эвакуатор в Ташкенте и по Узбекистану 24/7 — круглосуточная подача от 10-15 минут во все 12 районов. Легковые авто кроссоверы электромобили BYD/Tesla спецтехника...",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "evakuator",
+      "engine": "yandex",
+      "position": 0,
+      "url": "https://evakuator.uz",
+      "title": "Evakuator.uz — Yandex Business Card (наш бизнес)",
+      "snippet": "Рейтинг 4.2 (3 отзыва). ул. Шахриабад 9 Мирзо-Улугбекский район Ташкент. Телефон +998 94 66X XX XX. Telegram oybek_mahmudovich. Ежедневно круглосуточно. Отзывы: Рома Ж.Д. 5 звёзд 'Отличный сервис дядя Женя золотой мужик мастер своего дела...'; Ойбек Исаев 5 звёзд 'Сервис очень хороший быстро приехали и цена адекватная спасибо Фархад ака'; Fazliddinov Firdavs 1 звезда 'Не везде есть филиалы и дорого...'",
+      "source_type": "business_profile",
+      "cited_in_ai": false
+    },
+    {
+      "query": "эвакуатор в ташкенте",
+      "engine": "google",
+      "position": 0,
+      "url": "https://evakuator.uz",
+      "title": "Эвакуатор в Ташкенте - EVAKUATOR.UZ (Google Business Profile, наш бизнес)",
+      "snippet": "Рейтинг 4.4 (14 отзывов в Google). Услуги эвакуатора в Ташкенте. Адрес: Мирзо-Улугбекский р-он, ул. Ж. Обидовой 9, 25, Tashkent. Телефон: 94 666 66 63. Часы: Круглосуточно. Обслуживаемая территория: Ташкент и окрестности. Также показан виджет 'Отзывы в интернете' со ссылкой на Перевозка-24 UZ (38 отзывов) — возможно смешение данных с другим бизнесом, требует проверки в самой карточке.",
+      "source_type": "business_profile",
+      "cited_in_ai": false
+    }
+  ],
   "project_url_citation_count": 0,
   "answer_body_brand_mentions": 0,
-  "top_domains": [],
-  "cited_urls": [],
-  "title_term_patterns": [],
+  "top_domains": [
+    {
+      "value": "perevozka24.uz",
+      "count": 8
+    },
+    {
+      "value": "evakuator-tashkent.uz",
+      "count": 6
+    },
+    {
+      "value": "olx.uz",
+      "count": 6
+    },
+    {
+      "value": "m.olx.uz",
+      "count": 5
+    },
+    {
+      "value": "166.uz",
+      "count": 3
+    },
+    {
+      "value": "avtoelon.uz",
+      "count": 3
+    },
+    {
+      "value": "evakuator.uz",
+      "count": 3
+    },
+    {
+      "value": "yandex.uz",
+      "count": 3
+    },
+    {
+      "value": "birbir.uz",
+      "count": 2
+    },
+    {
+      "value": "auto.ustabor.uz",
+      "count": 1
+    },
+    {
+      "value": "evacuator.avtoapp.ru",
+      "count": 1
+    },
+    {
+      "value": "glotr.uz",
+      "count": 1
+    },
+    {
+      "value": "litro.uz",
+      "count": 1
+    },
+    {
+      "value": "neoavto.ru",
+      "count": 1
+    },
+    {
+      "value": "pro-auto.uz",
+      "count": 1
+    }
+  ],
+  "cited_urls": [
+    {
+      "value": "https://166.uz",
+      "count": 4
+    },
+    {
+      "value": "https://olx.uz",
+      "count": 2
+    }
+  ],
+  "title_term_patterns": [
+    {
+      "value": "эвакуатор",
+      "count": 31
+    },
+    {
+      "value": "ташкент",
+      "count": 19
+    },
+    {
+      "value": "evakuator",
+      "count": 17
+    },
+    {
+      "value": "вызвать",
+      "count": 12
+    },
+    {
+      "value": "ташкенте",
+      "count": 10
+    },
+    {
+      "value": "pack",
+      "count": 9
+    },
+    {
+      "value": "эвакуатора",
+      "count": 9
+    },
+    {
+      "value": "конкурент",
+      "count": 8
+    },
+    {
+      "value": "google",
+      "count": 7
+    },
+    {
+      "value": "вами",
+      "count": 7
+    },
+    {
+      "value": "рядом",
+      "count": 7
+    },
+    {
+      "value": "бизнес",
+      "count": 6
+    },
+    {
+      "value": "услуги",
+      "count": 6
+    },
+    {
+      "value": "business",
+      "count": 5
+    },
+    {
+      "value": "1331",
+      "count": 4
+    },
+    {
+      "value": "narxlar",
+      "count": 4
+    },
+    {
+      "value": "profile",
+      "count": 4
+    },
+    {
+      "value": "toshkentda",
+      "count": 4
+    },
+    {
+      "value": "цены",
+      "count": 4
+    },
+    {
+      "value": "avtoelon",
+      "count": 3
+    },
+    {
+      "value": "menga",
+      "count": 3
+    },
+    {
+      "value": "overview",
+      "count": 3
+    },
+    {
+      "value": "xaritada",
+      "count": 3
+    },
+    {
+      "value": "yaqin",
+      "count": 3
+    },
+    {
+      "value": "zbekistonda",
+      "count": 3
+    },
+    {
+      "value": "источник",
+      "count": 3
+    },
+    {
+      "value": "обзор",
+      "count": 3
+    },
+    {
+      "value": "цитирования",
+      "count": 3
+    },
+    {
+      "value": "эвакуаторов",
+      "count": 3
+    },
+    {
+      "value": "auto",
+      "count": 2
+    }
+  ],
   "retrieval_citation_brand_split": {
-    "ordinary_serp_presence": 0,
+    "ordinary_serp_presence": 3,
     "final_citation_source_presence": 0,
     "answer_body_brand_mentions": 0
   },
   "limitations": [
-    "No SERP rows imported or collected; SERP conclusions are lower-assurance.",
-    "No AI answer rows imported or collected; citation and brand mention conclusions are lower-assurance."
+    "Manual/provider evidence exists; still avoid causal claims from one run."
   ]
 }

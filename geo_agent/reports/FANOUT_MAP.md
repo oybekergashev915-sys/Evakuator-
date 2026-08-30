@@ -1,6 +1,6 @@
 # FANOUT_MAP
 
-Generated: 2026-08-30T16:56:03+00:00
+Generated: 2026-08-30T17:09:42+00:00
 Topic: Услуги эвакуатора
 
 | Branch | Priority | Query | Source |

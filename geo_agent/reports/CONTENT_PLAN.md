@@ -1,6 +1,6 @@
 # CONTENT_PLAN
 
-Generated: 2026-08-30T16:56:03+00:00
+Generated: 2026-08-30T17:09:42+00:00
 Topic: Услуги эвакуатора
 
 | ID | Priority | Action | Intent | Topic | Recommendation |
@@ -196,6 +196,7 @@ Topic: Услуги эвакуатора
 | cp-189 | medium | section_or_separate_page_after_overlap_check | risks | заказать эвакуатор risks | Use as a page section unless SERP/AI evidence proves a materially distinct user task. |
 | cp-190 | medium | section_or_separate_page_after_overlap_check | alternatives | заказать эвакуатор alternatives | Use as a page section unless SERP/AI evidence proves a materially distinct user task. |
 | cp-191 | medium | section_or_separate_page_after_overlap_check | process | how to choose заказать эвакуатор | Use as a page section unless SERP/AI evidence proves a materially distinct user task. |
+| cp-192 | high | external_source_alignment | citation_source | Услуги эвакуатора cited-source pattern | Inspect repeated cited URLs and align page modules with useful answer fragments. |
 
 ## Guardrails
 
