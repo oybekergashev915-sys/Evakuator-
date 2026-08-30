@@ -1,0 +1,168 @@
+[
+  {
+    "stage": "adaptation",
+    "required_by_scope": true,
+    "input_universe_count": 1,
+    "processed_count": 1,
+    "status": "done",
+    "quality_verdict": "pass",
+    "evidence_refs": [
+      "geo_agent/reports/ADAPTATION_REPORT.md"
+    ],
+    "next_valid_action": "review_report",
+    "human_visible_note": ""
+  },
+  {
+    "stage": "project_context",
+    "required_by_scope": true,
+    "input_universe_count": 1,
+    "processed_count": 1,
+    "status": "done",
+    "quality_verdict": "pass",
+    "evidence_refs": [
+      "geo_agent/reports/PROJECT_CONTEXT.md"
+    ],
+    "next_valid_action": "review_report",
+    "human_visible_note": ""
+  },
+  {
+    "stage": "accessibility",
+    "required_by_scope": true,
+    "input_universe_count": 1,
+    "processed_count": 1,
+    "status": "done",
+    "quality_verdict": "pass",
+    "evidence_refs": [
+      "geo_agent/reports/ACCESSIBILITY_AUDIT.md"
+    ],
+    "next_valid_action": "review_report",
+    "human_visible_note": ""
+  },
+  {
+    "stage": "semantic_cluster",
+    "required_by_scope": true,
+    "input_universe_count": 1,
+    "processed_count": 1,
+    "status": "done",
+    "quality_verdict": "pass",
+    "evidence_refs": [
+      "geo_agent/data/processed/услуги-эвакуатора_semantic_cluster_queries.csv"
+    ],
+    "next_valid_action": "review_report",
+    "human_visible_note": ""
+  },
+  {
+    "stage": "fanout",
+    "required_by_scope": true,
+    "input_universe_count": 1,
+    "processed_count": 1,
+    "status": "done",
+    "quality_verdict": "pass",
+    "evidence_refs": [
+      "geo_agent/reports/FANOUT_MAP.md"
+    ],
+    "next_valid_action": "review_report",
+    "human_visible_note": ""
+  },
+  {
+    "stage": "serp_ai_analysis",
+    "required_by_scope": true,
+    "input_universe_count": 1,
+    "processed_count": 1,
+    "status": "done",
+    "quality_verdict": "pass",
+    "evidence_refs": [
+      "geo_agent/reports/SERP_AI_ANALYSIS.md"
+    ],
+    "next_valid_action": "review_report",
+    "human_visible_note": "lower-assurance due missing provider evidence"
+  },
+  {
+    "stage": "content_plan",
+    "required_by_scope": true,
+    "input_universe_count": 1,
+    "processed_count": 1,
+    "status": "done",
+    "quality_verdict": "pass",
+    "evidence_refs": [
+      "geo_agent/reports/CONTENT_PLAN.md"
+    ],
+    "next_valid_action": "review_report",
+    "human_visible_note": ""
+  },
+  {
+    "stage": "semantic_tz_handoff",
+    "required_by_scope": true,
+    "input_universe_count": 1,
+    "processed_count": 1,
+    "status": "done",
+    "quality_verdict": "pass",
+    "evidence_refs": [
+      "geo_agent/data/handoff/semantic_tz_handoff_услуги-эвакуатора.json"
+    ],
+    "next_valid_action": "review_report",
+    "human_visible_note": ""
+  },
+  {
+    "stage": "placement_strategy",
+    "required_by_scope": true,
+    "input_universe_count": 1,
+    "processed_count": 1,
+    "status": "done",
+    "quality_verdict": "pass",
+    "evidence_refs": [
+      "geo_agent/reports/PLACEMENT_STRATEGY.md"
+    ],
+    "next_valid_action": "review_report",
+    "human_visible_note": ""
+  },
+  {
+    "stage": "monitoring_plan",
+    "required_by_scope": true,
+    "input_universe_count": 1,
+    "processed_count": 1,
+    "status": "done",
+    "quality_verdict": "pass",
+    "evidence_refs": [
+      "geo_agent/reports/MONITORING_PLAN.md"
+    ],
+    "next_valid_action": "review_report",
+    "human_visible_note": ""
+  },
+  {
+    "stage": "sqlite_storage",
+    "required_by_scope": true,
+    "input_universe_count": 1,
+    "processed_count": 1,
+    "status": "done",
+    "quality_verdict": "pass",
+    "evidence_refs": [
+      "geo_agent/data/geo_topic_agent.sqlite"
+    ],
+    "next_valid_action": "review_report",
+    "human_visible_note": ""
+  },
+  {
+    "stage": "final_claim_guard",
+    "required_by_scope": true,
+    "input_universe_count": 11,
+    "processed_count": 11,
+    "status": "blocked",
+    "quality_verdict": "fail",
+    "evidence_refs": [
+      "geo_agent/reports/ADAPTATION_REPORT.md",
+      "geo_agent/reports/PROJECT_CONTEXT.md",
+      "geo_agent/reports/ACCESSIBILITY_AUDIT.md",
+      "geo_agent/data/processed/услуги-эвакуатора_semantic_cluster_queries.csv",
+      "geo_agent/reports/FANOUT_MAP.md",
+      "geo_agent/reports/SERP_AI_ANALYSIS.md",
+      "geo_agent/reports/CONTENT_PLAN.md",
+      "geo_agent/data/handoff/semantic_tz_handoff_услуги-эвакуатора.json",
+      "geo_agent/reports/PLACEMENT_STRATEGY.md",
+      "geo_agent/reports/MONITORING_PLAN.md",
+      "geo_agent/data/geo_topic_agent.sqlite"
+    ],
+    "next_valid_action": "complete_missing_or_lower_assurance_evidence",
+    "human_visible_note": "Offline stage files alone do not prove completion; lower-assurance or missing evidence keeps the final claim blocked."
+  }
+]

@@ -1,0 +1,5542 @@
+{
+  "schema_version": "geo-topic-agent.semantic-tz-handoff.v1",
+  "generated_at": "2026-08-30T16:56:03+00:00",
+  "topic": "Услуги эвакуатора",
+  "topic_slug": "услуги-эвакуатора",
+  "semantic_cluster_queries": [
+    "эвакуатор ташкент",
+    "evakuator",
+    "эвакуатор",
+    "evakuator xizmati",
+    "вызвать эвакуатор",
+    "эвакуатор в ташкенте",
+    "evakuator xizmati toshkent",
+    "эвакуатор машин",
+    "evakuator tashkent",
+    "автомобильный эвакуатор",
+    "evakuator nomerlari",
+    "эвакуатор ташкент цена",
+    "эвакуатор услуги",
+    "evakuator toshkent",
+    "эвакуатор ташкент номер",
+    "евакуатор",
+    "эвакуатор ташкент дешево",
+    "evakuatr",
+    "услуги эвакуатора",
+    "evakuator uz",
+    "телефон эвакуатора",
+    "номер эвакуатора",
+    "эвакуатор ташкент номер телефона",
+    "эвакуатор телефон",
+    "служба эвакуаторов",
+    "эвакуатор номер",
+    "evakuator xizmati narxlari",
+    "эвакуатор уз",
+    "эвакуатор сергели",
+    "заказать автоэвакуатор",
+    "эвакуатор хизмати",
+    "эвакуатор юнусабад",
+    "эвакуатор цена",
+    "эвакуатор легковых автомобилей",
+    "эвакуатор стоимость",
+    "номер телефона эвакуатора",
+    "эвакуатор срочно",
+    "заказать эвакуатор"
+  ],
+  "project": {
+    "domain": "evakuator.uz",
+    "brand": "",
+    "brand_variants": [
+      "EVAKUATOR.UZ",
+      "OOO MADAT LOGISTICS"
+    ],
+    "brand_variants_status": "confirmed",
+    "brand_variants_source": "explicit_user_confirmation",
+    "target_goal": "both",
+    "priority_topics": [
+      "Услуги эвакуатора"
+    ],
+    "semantic_cluster_queries": [
+      "эвакуатор ташкент",
+      "evakuator",
+      "эвакуатор",
+      "evakuator xizmati",
+      "вызвать эвакуатор",
+      "эвакуатор в ташкенте",
+      "evakuator xizmati toshkent",
+      "эвакуатор машин",
+      "evakuator tashkent",
+      "автомобильный эвакуатор",
+      "evakuator nomerlari",
+      "эвакуатор ташкент цена",
+      "эвакуатор услуги",
+      "evakuator toshkent",
+      "эвакуатор ташкент номер",
+      "евакуатор",
+      "эвакуатор ташкент дешево",
+      "evakuatr",
+      "услуги эвакуатора",
+      "evakuator uz",
+      "телефон эвакуатора",
+      "номер эвакуатора",
+      "эвакуатор ташкент номер телефона",
+      "эвакуатор телефон",
+      "служба эвакуаторов",
+      "эвакуатор номер",
+      "evakuator xizmati narxlari",
+      "эвакуатор уз",
+      "эвакуатор сергели",
+      "заказать автоэвакуатор",
+      "эвакуатор хизмати",
+      "эвакуатор юнусабад",
+      "эвакуатор цена",
+      "эвакуатор легковых автомобилей",
+      "эвакуатор стоимость",
+      "номер телефона эвакуатора",
+      "эвакуатор срочно",
+      "заказать эвакуатор"
+    ],
+    "competitors": [],
+    "site_pages": [],
+    "products_services": [],
+    "documents": [],
+    "context_notes": "Сайт — одностраничный лендинг (SPA/one-page), подтверждено пользователем. b2b.html — тот же раздел /#b2b, выделенный как отдельная единица контента для ревью (не отдельный физический URL).",
+    "site_discovery_approved": true,
+    "context_not_applicable_decisions": [],
+    "audit_decisions": {},
+    "brand_variants_confirmed_at": "2026-08-30T16:47:05+00:00",
+    "brand_variants_confirmation": {
+      "variants_sha256": "8b12c78b3081f0df720c5fbfd15a51b3d5f2832450efee170dc0eeec0b35456d",
+      "confirmation_ref": "chat-2026-08-30-brand-confirmation",
+      "confirmed_by": "project owner (chat)",
+      "confirmed_at": "2026-08-30T16:47:05+00:00"
+    },
+    "semantic_cluster_topic": "Услуги эвакуатора",
+    "semantic_cluster_status": "confirmed",
+    "semantic_cluster_source": "user_supplied",
+    "semantic_cluster_confirmed_at": "2026-08-30T16:56:03+00:00"
+  },
+  "region": {
+    "country": "",
+    "city": "",
+    "language": "",
+    "scope_status": "unresolved",
+    "scope_provenance": "not_provided",
+    "google": {
+      "gl": "ru",
+      "hl": "ru"
+    },
+    "yandex": {
+      "lr": 213
+    },
+    "device": {
+      "default": "desktop",
+      "collect_mobile": false
+    }
+  },
+  "search_engines": {
+    "google": {
+      "enabled": true,
+      "provider": "xmlriver",
+      "depth": 20
+    },
+    "yandex": {
+      "enabled": true,
+      "provider": "xmlriver",
+      "depth": 20
+    },
+    "bing": {
+      "enabled": false,
+      "provider": "manual_or_existing",
+      "depth": 20
+    },
+    "brave": {
+      "enabled": false,
+      "provider": "manual_or_existing",
+      "depth": 20
+    }
+  },
+  "semantic_tz_generator_candidates": [],
+  "generator_invoked": false,
+  "goal": "both",
+  "fanout_queries": [
+    {
+      "source_order": 1,
+      "source_query": "эвакуатор ташкент",
+      "fanout_query": "what is эвакуатор ташкент",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 2,
+      "source_query": "эвакуатор ташкент",
+      "fanout_query": "эвакуатор ташкент comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 3,
+      "source_query": "эвакуатор ташкент",
+      "fanout_query": "эвакуатор ташкент cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 4,
+      "source_query": "эвакуатор ташкент",
+      "fanout_query": "эвакуатор ташкент risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 5,
+      "source_query": "эвакуатор ташкент",
+      "fanout_query": "эвакуатор ташкент alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 6,
+      "source_query": "эвакуатор ташкент",
+      "fanout_query": "эвакуатор ташкент requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 7,
+      "source_query": "эвакуатор ташкент",
+      "fanout_query": "how to choose эвакуатор ташкент",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 8,
+      "source_query": "эвакуатор ташкент",
+      "fanout_query": "эвакуатор ташкент mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 9,
+      "source_query": "эвакуатор ташкент",
+      "fanout_query": "эвакуатор ташкент questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 10,
+      "source_query": "эвакуатор ташкент",
+      "fanout_query": "эвакуатор ташкент in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 11,
+      "source_query": "evakuator",
+      "fanout_query": "what is evakuator",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 12,
+      "source_query": "evakuator",
+      "fanout_query": "evakuator comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 13,
+      "source_query": "evakuator",
+      "fanout_query": "evakuator cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 14,
+      "source_query": "evakuator",
+      "fanout_query": "evakuator risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 15,
+      "source_query": "evakuator",
+      "fanout_query": "evakuator alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 16,
+      "source_query": "evakuator",
+      "fanout_query": "evakuator requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 17,
+      "source_query": "evakuator",
+      "fanout_query": "how to choose evakuator",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 18,
+      "source_query": "evakuator",
+      "fanout_query": "evakuator mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 19,
+      "source_query": "evakuator",
+      "fanout_query": "evakuator questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 20,
+      "source_query": "evakuator",
+      "fanout_query": "evakuator in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 21,
+      "source_query": "эвакуатор",
+      "fanout_query": "what is эвакуатор",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 22,
+      "source_query": "эвакуатор",
+      "fanout_query": "эвакуатор comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 23,
+      "source_query": "эвакуатор",
+      "fanout_query": "эвакуатор cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 24,
+      "source_query": "эвакуатор",
+      "fanout_query": "эвакуатор risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 25,
+      "source_query": "эвакуатор",
+      "fanout_query": "эвакуатор alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 26,
+      "source_query": "эвакуатор",
+      "fanout_query": "эвакуатор requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 27,
+      "source_query": "эвакуатор",
+      "fanout_query": "how to choose эвакуатор",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 28,
+      "source_query": "эвакуатор",
+      "fanout_query": "эвакуатор mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 29,
+      "source_query": "эвакуатор",
+      "fanout_query": "эвакуатор questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 30,
+      "source_query": "эвакуатор",
+      "fanout_query": "эвакуатор in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 31,
+      "source_query": "evakuator xizmati",
+      "fanout_query": "what is evakuator xizmati",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 32,
+      "source_query": "evakuator xizmati",
+      "fanout_query": "evakuator xizmati comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 33,
+      "source_query": "evakuator xizmati",
+      "fanout_query": "evakuator xizmati cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 34,
+      "source_query": "evakuator xizmati",
+      "fanout_query": "evakuator xizmati risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 35,
+      "source_query": "evakuator xizmati",
+      "fanout_query": "evakuator xizmati alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 36,
+      "source_query": "evakuator xizmati",
+      "fanout_query": "evakuator xizmati requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 37,
+      "source_query": "evakuator xizmati",
+      "fanout_query": "how to choose evakuator xizmati",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 38,
+      "source_query": "evakuator xizmati",
+      "fanout_query": "evakuator xizmati mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 39,
+      "source_query": "evakuator xizmati",
+      "fanout_query": "evakuator xizmati questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 40,
+      "source_query": "evakuator xizmati",
+      "fanout_query": "evakuator xizmati in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 41,
+      "source_query": "вызвать эвакуатор",
+      "fanout_query": "what is вызвать эвакуатор",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 42,
+      "source_query": "вызвать эвакуатор",
+      "fanout_query": "вызвать эвакуатор comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 43,
+      "source_query": "вызвать эвакуатор",
+      "fanout_query": "вызвать эвакуатор cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 44,
+      "source_query": "вызвать эвакуатор",
+      "fanout_query": "вызвать эвакуатор risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 45,
+      "source_query": "вызвать эвакуатор",
+      "fanout_query": "вызвать эвакуатор alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 46,
+      "source_query": "вызвать эвакуатор",
+      "fanout_query": "вызвать эвакуатор requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 47,
+      "source_query": "вызвать эвакуатор",
+      "fanout_query": "how to choose вызвать эвакуатор",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 48,
+      "source_query": "вызвать эвакуатор",
+      "fanout_query": "вызвать эвакуатор mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 49,
+      "source_query": "вызвать эвакуатор",
+      "fanout_query": "вызвать эвакуатор questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 50,
+      "source_query": "вызвать эвакуатор",
+      "fanout_query": "вызвать эвакуатор in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 51,
+      "source_query": "эвакуатор в ташкенте",
+      "fanout_query": "what is эвакуатор в ташкенте",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 52,
+      "source_query": "эвакуатор в ташкенте",
+      "fanout_query": "эвакуатор в ташкенте comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 53,
+      "source_query": "эвакуатор в ташкенте",
+      "fanout_query": "эвакуатор в ташкенте cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 54,
+      "source_query": "эвакуатор в ташкенте",
+      "fanout_query": "эвакуатор в ташкенте risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 55,
+      "source_query": "эвакуатор в ташкенте",
+      "fanout_query": "эвакуатор в ташкенте alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 56,
+      "source_query": "эвакуатор в ташкенте",
+      "fanout_query": "эвакуатор в ташкенте requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 57,
+      "source_query": "эвакуатор в ташкенте",
+      "fanout_query": "how to choose эвакуатор в ташкенте",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 58,
+      "source_query": "эвакуатор в ташкенте",
+      "fanout_query": "эвакуатор в ташкенте mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 59,
+      "source_query": "эвакуатор в ташкенте",
+      "fanout_query": "эвакуатор в ташкенте questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 60,
+      "source_query": "эвакуатор в ташкенте",
+      "fanout_query": "эвакуатор в ташкенте in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 61,
+      "source_query": "evakuator xizmati toshkent",
+      "fanout_query": "what is evakuator xizmati toshkent",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 62,
+      "source_query": "evakuator xizmati toshkent",
+      "fanout_query": "evakuator xizmati toshkent comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 63,
+      "source_query": "evakuator xizmati toshkent",
+      "fanout_query": "evakuator xizmati toshkent cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 64,
+      "source_query": "evakuator xizmati toshkent",
+      "fanout_query": "evakuator xizmati toshkent risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 65,
+      "source_query": "evakuator xizmati toshkent",
+      "fanout_query": "evakuator xizmati toshkent alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 66,
+      "source_query": "evakuator xizmati toshkent",
+      "fanout_query": "evakuator xizmati toshkent requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 67,
+      "source_query": "evakuator xizmati toshkent",
+      "fanout_query": "how to choose evakuator xizmati toshkent",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 68,
+      "source_query": "evakuator xizmati toshkent",
+      "fanout_query": "evakuator xizmati toshkent mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 69,
+      "source_query": "evakuator xizmati toshkent",
+      "fanout_query": "evakuator xizmati toshkent questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 70,
+      "source_query": "evakuator xizmati toshkent",
+      "fanout_query": "evakuator xizmati toshkent in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 71,
+      "source_query": "эвакуатор машин",
+      "fanout_query": "what is эвакуатор машин",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 72,
+      "source_query": "эвакуатор машин",
+      "fanout_query": "эвакуатор машин comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 73,
+      "source_query": "эвакуатор машин",
+      "fanout_query": "эвакуатор машин cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 74,
+      "source_query": "эвакуатор машин",
+      "fanout_query": "эвакуатор машин risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 75,
+      "source_query": "эвакуатор машин",
+      "fanout_query": "эвакуатор машин alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 76,
+      "source_query": "эвакуатор машин",
+      "fanout_query": "эвакуатор машин requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 77,
+      "source_query": "эвакуатор машин",
+      "fanout_query": "how to choose эвакуатор машин",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 78,
+      "source_query": "эвакуатор машин",
+      "fanout_query": "эвакуатор машин mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 79,
+      "source_query": "эвакуатор машин",
+      "fanout_query": "эвакуатор машин questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 80,
+      "source_query": "эвакуатор машин",
+      "fanout_query": "эвакуатор машин in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 81,
+      "source_query": "evakuator tashkent",
+      "fanout_query": "what is evakuator tashkent",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 82,
+      "source_query": "evakuator tashkent",
+      "fanout_query": "evakuator tashkent comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 83,
+      "source_query": "evakuator tashkent",
+      "fanout_query": "evakuator tashkent cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 84,
+      "source_query": "evakuator tashkent",
+      "fanout_query": "evakuator tashkent risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 85,
+      "source_query": "evakuator tashkent",
+      "fanout_query": "evakuator tashkent alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 86,
+      "source_query": "evakuator tashkent",
+      "fanout_query": "evakuator tashkent requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 87,
+      "source_query": "evakuator tashkent",
+      "fanout_query": "how to choose evakuator tashkent",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 88,
+      "source_query": "evakuator tashkent",
+      "fanout_query": "evakuator tashkent mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 89,
+      "source_query": "evakuator tashkent",
+      "fanout_query": "evakuator tashkent questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 90,
+      "source_query": "evakuator tashkent",
+      "fanout_query": "evakuator tashkent in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 91,
+      "source_query": "автомобильный эвакуатор",
+      "fanout_query": "what is автомобильный эвакуатор",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 92,
+      "source_query": "автомобильный эвакуатор",
+      "fanout_query": "автомобильный эвакуатор comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 93,
+      "source_query": "автомобильный эвакуатор",
+      "fanout_query": "автомобильный эвакуатор cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 94,
+      "source_query": "автомобильный эвакуатор",
+      "fanout_query": "автомобильный эвакуатор risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 95,
+      "source_query": "автомобильный эвакуатор",
+      "fanout_query": "автомобильный эвакуатор alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 96,
+      "source_query": "автомобильный эвакуатор",
+      "fanout_query": "автомобильный эвакуатор requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 97,
+      "source_query": "автомобильный эвакуатор",
+      "fanout_query": "how to choose автомобильный эвакуатор",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 98,
+      "source_query": "автомобильный эвакуатор",
+      "fanout_query": "автомобильный эвакуатор mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 99,
+      "source_query": "автомобильный эвакуатор",
+      "fanout_query": "автомобильный эвакуатор questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 100,
+      "source_query": "автомобильный эвакуатор",
+      "fanout_query": "автомобильный эвакуатор in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 101,
+      "source_query": "evakuator nomerlari",
+      "fanout_query": "what is evakuator nomerlari",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 102,
+      "source_query": "evakuator nomerlari",
+      "fanout_query": "evakuator nomerlari comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 103,
+      "source_query": "evakuator nomerlari",
+      "fanout_query": "evakuator nomerlari cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 104,
+      "source_query": "evakuator nomerlari",
+      "fanout_query": "evakuator nomerlari risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 105,
+      "source_query": "evakuator nomerlari",
+      "fanout_query": "evakuator nomerlari alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 106,
+      "source_query": "evakuator nomerlari",
+      "fanout_query": "evakuator nomerlari requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 107,
+      "source_query": "evakuator nomerlari",
+      "fanout_query": "how to choose evakuator nomerlari",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 108,
+      "source_query": "evakuator nomerlari",
+      "fanout_query": "evakuator nomerlari mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 109,
+      "source_query": "evakuator nomerlari",
+      "fanout_query": "evakuator nomerlari questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 110,
+      "source_query": "evakuator nomerlari",
+      "fanout_query": "evakuator nomerlari in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 111,
+      "source_query": "эвакуатор ташкент цена",
+      "fanout_query": "what is эвакуатор ташкент цена",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 112,
+      "source_query": "эвакуатор ташкент цена",
+      "fanout_query": "эвакуатор ташкент цена comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 113,
+      "source_query": "эвакуатор ташкент цена",
+      "fanout_query": "эвакуатор ташкент цена cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 114,
+      "source_query": "эвакуатор ташкент цена",
+      "fanout_query": "эвакуатор ташкент цена risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 115,
+      "source_query": "эвакуатор ташкент цена",
+      "fanout_query": "эвакуатор ташкент цена alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 116,
+      "source_query": "эвакуатор ташкент цена",
+      "fanout_query": "эвакуатор ташкент цена requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 117,
+      "source_query": "эвакуатор ташкент цена",
+      "fanout_query": "how to choose эвакуатор ташкент цена",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 118,
+      "source_query": "эвакуатор ташкент цена",
+      "fanout_query": "эвакуатор ташкент цена mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 119,
+      "source_query": "эвакуатор ташкент цена",
+      "fanout_query": "эвакуатор ташкент цена questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 120,
+      "source_query": "эвакуатор ташкент цена",
+      "fanout_query": "эвакуатор ташкент цена in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 121,
+      "source_query": "эвакуатор услуги",
+      "fanout_query": "what is эвакуатор услуги",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 122,
+      "source_query": "эвакуатор услуги",
+      "fanout_query": "эвакуатор услуги comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 123,
+      "source_query": "эвакуатор услуги",
+      "fanout_query": "эвакуатор услуги cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 124,
+      "source_query": "эвакуатор услуги",
+      "fanout_query": "эвакуатор услуги risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 125,
+      "source_query": "эвакуатор услуги",
+      "fanout_query": "эвакуатор услуги alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 126,
+      "source_query": "эвакуатор услуги",
+      "fanout_query": "эвакуатор услуги requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 127,
+      "source_query": "эвакуатор услуги",
+      "fanout_query": "how to choose эвакуатор услуги",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 128,
+      "source_query": "эвакуатор услуги",
+      "fanout_query": "эвакуатор услуги mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 129,
+      "source_query": "эвакуатор услуги",
+      "fanout_query": "эвакуатор услуги questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 130,
+      "source_query": "эвакуатор услуги",
+      "fanout_query": "эвакуатор услуги in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 131,
+      "source_query": "evakuator toshkent",
+      "fanout_query": "what is evakuator toshkent",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 132,
+      "source_query": "evakuator toshkent",
+      "fanout_query": "evakuator toshkent comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 133,
+      "source_query": "evakuator toshkent",
+      "fanout_query": "evakuator toshkent cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 134,
+      "source_query": "evakuator toshkent",
+      "fanout_query": "evakuator toshkent risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 135,
+      "source_query": "evakuator toshkent",
+      "fanout_query": "evakuator toshkent alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 136,
+      "source_query": "evakuator toshkent",
+      "fanout_query": "evakuator toshkent requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 137,
+      "source_query": "evakuator toshkent",
+      "fanout_query": "how to choose evakuator toshkent",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 138,
+      "source_query": "evakuator toshkent",
+      "fanout_query": "evakuator toshkent mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 139,
+      "source_query": "evakuator toshkent",
+      "fanout_query": "evakuator toshkent questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 140,
+      "source_query": "evakuator toshkent",
+      "fanout_query": "evakuator toshkent in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 141,
+      "source_query": "эвакуатор ташкент номер",
+      "fanout_query": "what is эвакуатор ташкент номер",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 142,
+      "source_query": "эвакуатор ташкент номер",
+      "fanout_query": "эвакуатор ташкент номер comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 143,
+      "source_query": "эвакуатор ташкент номер",
+      "fanout_query": "эвакуатор ташкент номер cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 144,
+      "source_query": "эвакуатор ташкент номер",
+      "fanout_query": "эвакуатор ташкент номер risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 145,
+      "source_query": "эвакуатор ташкент номер",
+      "fanout_query": "эвакуатор ташкент номер alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 146,
+      "source_query": "эвакуатор ташкент номер",
+      "fanout_query": "эвакуатор ташкент номер requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 147,
+      "source_query": "эвакуатор ташкент номер",
+      "fanout_query": "how to choose эвакуатор ташкент номер",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 148,
+      "source_query": "эвакуатор ташкент номер",
+      "fanout_query": "эвакуатор ташкент номер mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 149,
+      "source_query": "эвакуатор ташкент номер",
+      "fanout_query": "эвакуатор ташкент номер questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 150,
+      "source_query": "эвакуатор ташкент номер",
+      "fanout_query": "эвакуатор ташкент номер in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 151,
+      "source_query": "евакуатор",
+      "fanout_query": "what is евакуатор",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 152,
+      "source_query": "евакуатор",
+      "fanout_query": "евакуатор comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 153,
+      "source_query": "евакуатор",
+      "fanout_query": "евакуатор cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 154,
+      "source_query": "евакуатор",
+      "fanout_query": "евакуатор risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 155,
+      "source_query": "евакуатор",
+      "fanout_query": "евакуатор alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 156,
+      "source_query": "евакуатор",
+      "fanout_query": "евакуатор requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 157,
+      "source_query": "евакуатор",
+      "fanout_query": "how to choose евакуатор",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 158,
+      "source_query": "евакуатор",
+      "fanout_query": "евакуатор mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 159,
+      "source_query": "евакуатор",
+      "fanout_query": "евакуатор questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 160,
+      "source_query": "евакуатор",
+      "fanout_query": "евакуатор in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 161,
+      "source_query": "эвакуатор ташкент дешево",
+      "fanout_query": "what is эвакуатор ташкент дешево",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 162,
+      "source_query": "эвакуатор ташкент дешево",
+      "fanout_query": "эвакуатор ташкент дешево comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 163,
+      "source_query": "эвакуатор ташкент дешево",
+      "fanout_query": "эвакуатор ташкент дешево cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 164,
+      "source_query": "эвакуатор ташкент дешево",
+      "fanout_query": "эвакуатор ташкент дешево risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 165,
+      "source_query": "эвакуатор ташкент дешево",
+      "fanout_query": "эвакуатор ташкент дешево alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 166,
+      "source_query": "эвакуатор ташкент дешево",
+      "fanout_query": "эвакуатор ташкент дешево requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 167,
+      "source_query": "эвакуатор ташкент дешево",
+      "fanout_query": "how to choose эвакуатор ташкент дешево",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 168,
+      "source_query": "эвакуатор ташкент дешево",
+      "fanout_query": "эвакуатор ташкент дешево mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 169,
+      "source_query": "эвакуатор ташкент дешево",
+      "fanout_query": "эвакуатор ташкент дешево questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 170,
+      "source_query": "эвакуатор ташкент дешево",
+      "fanout_query": "эвакуатор ташкент дешево in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 171,
+      "source_query": "evakuatr",
+      "fanout_query": "what is evakuatr",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 172,
+      "source_query": "evakuatr",
+      "fanout_query": "evakuatr comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 173,
+      "source_query": "evakuatr",
+      "fanout_query": "evakuatr cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 174,
+      "source_query": "evakuatr",
+      "fanout_query": "evakuatr risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 175,
+      "source_query": "evakuatr",
+      "fanout_query": "evakuatr alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 176,
+      "source_query": "evakuatr",
+      "fanout_query": "evakuatr requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 177,
+      "source_query": "evakuatr",
+      "fanout_query": "how to choose evakuatr",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 178,
+      "source_query": "evakuatr",
+      "fanout_query": "evakuatr mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 179,
+      "source_query": "evakuatr",
+      "fanout_query": "evakuatr questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 180,
+      "source_query": "evakuatr",
+      "fanout_query": "evakuatr in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 181,
+      "source_query": "услуги эвакуатора",
+      "fanout_query": "what is услуги эвакуатора",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 182,
+      "source_query": "услуги эвакуатора",
+      "fanout_query": "услуги эвакуатора comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 183,
+      "source_query": "услуги эвакуатора",
+      "fanout_query": "услуги эвакуатора cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 184,
+      "source_query": "услуги эвакуатора",
+      "fanout_query": "услуги эвакуатора risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 185,
+      "source_query": "услуги эвакуатора",
+      "fanout_query": "услуги эвакуатора alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 186,
+      "source_query": "услуги эвакуатора",
+      "fanout_query": "услуги эвакуатора requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 187,
+      "source_query": "услуги эвакуатора",
+      "fanout_query": "how to choose услуги эвакуатора",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 188,
+      "source_query": "услуги эвакуатора",
+      "fanout_query": "услуги эвакуатора mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 189,
+      "source_query": "услуги эвакуатора",
+      "fanout_query": "услуги эвакуатора questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 190,
+      "source_query": "услуги эвакуатора",
+      "fanout_query": "услуги эвакуатора in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 191,
+      "source_query": "evakuator uz",
+      "fanout_query": "what is evakuator uz",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 192,
+      "source_query": "evakuator uz",
+      "fanout_query": "evakuator uz comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 193,
+      "source_query": "evakuator uz",
+      "fanout_query": "evakuator uz cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 194,
+      "source_query": "evakuator uz",
+      "fanout_query": "evakuator uz risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 195,
+      "source_query": "evakuator uz",
+      "fanout_query": "evakuator uz alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 196,
+      "source_query": "evakuator uz",
+      "fanout_query": "evakuator uz requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 197,
+      "source_query": "evakuator uz",
+      "fanout_query": "how to choose evakuator uz",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 198,
+      "source_query": "evakuator uz",
+      "fanout_query": "evakuator uz mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 199,
+      "source_query": "evakuator uz",
+      "fanout_query": "evakuator uz questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 200,
+      "source_query": "evakuator uz",
+      "fanout_query": "evakuator uz in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 201,
+      "source_query": "телефон эвакуатора",
+      "fanout_query": "what is телефон эвакуатора",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 202,
+      "source_query": "телефон эвакуатора",
+      "fanout_query": "телефон эвакуатора comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 203,
+      "source_query": "телефон эвакуатора",
+      "fanout_query": "телефон эвакуатора cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 204,
+      "source_query": "телефон эвакуатора",
+      "fanout_query": "телефон эвакуатора risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 205,
+      "source_query": "телефон эвакуатора",
+      "fanout_query": "телефон эвакуатора alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 206,
+      "source_query": "телефон эвакуатора",
+      "fanout_query": "телефон эвакуатора requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 207,
+      "source_query": "телефон эвакуатора",
+      "fanout_query": "how to choose телефон эвакуатора",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 208,
+      "source_query": "телефон эвакуатора",
+      "fanout_query": "телефон эвакуатора mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 209,
+      "source_query": "телефон эвакуатора",
+      "fanout_query": "телефон эвакуатора questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 210,
+      "source_query": "телефон эвакуатора",
+      "fanout_query": "телефон эвакуатора in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 211,
+      "source_query": "номер эвакуатора",
+      "fanout_query": "what is номер эвакуатора",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 212,
+      "source_query": "номер эвакуатора",
+      "fanout_query": "номер эвакуатора comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 213,
+      "source_query": "номер эвакуатора",
+      "fanout_query": "номер эвакуатора cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 214,
+      "source_query": "номер эвакуатора",
+      "fanout_query": "номер эвакуатора risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 215,
+      "source_query": "номер эвакуатора",
+      "fanout_query": "номер эвакуатора alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 216,
+      "source_query": "номер эвакуатора",
+      "fanout_query": "номер эвакуатора requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 217,
+      "source_query": "номер эвакуатора",
+      "fanout_query": "how to choose номер эвакуатора",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 218,
+      "source_query": "номер эвакуатора",
+      "fanout_query": "номер эвакуатора mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 219,
+      "source_query": "номер эвакуатора",
+      "fanout_query": "номер эвакуатора questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 220,
+      "source_query": "номер эвакуатора",
+      "fanout_query": "номер эвакуатора in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 221,
+      "source_query": "эвакуатор ташкент номер телефона",
+      "fanout_query": "what is эвакуатор ташкент номер телефона",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 222,
+      "source_query": "эвакуатор ташкент номер телефона",
+      "fanout_query": "эвакуатор ташкент номер телефона comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 223,
+      "source_query": "эвакуатор ташкент номер телефона",
+      "fanout_query": "эвакуатор ташкент номер телефона cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 224,
+      "source_query": "эвакуатор ташкент номер телефона",
+      "fanout_query": "эвакуатор ташкент номер телефона risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 225,
+      "source_query": "эвакуатор ташкент номер телефона",
+      "fanout_query": "эвакуатор ташкент номер телефона alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 226,
+      "source_query": "эвакуатор ташкент номер телефона",
+      "fanout_query": "эвакуатор ташкент номер телефона requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 227,
+      "source_query": "эвакуатор ташкент номер телефона",
+      "fanout_query": "how to choose эвакуатор ташкент номер телефона",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 228,
+      "source_query": "эвакуатор ташкент номер телефона",
+      "fanout_query": "эвакуатор ташкент номер телефона mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 229,
+      "source_query": "эвакуатор ташкент номер телефона",
+      "fanout_query": "эвакуатор ташкент номер телефона questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 230,
+      "source_query": "эвакуатор ташкент номер телефона",
+      "fanout_query": "эвакуатор ташкент номер телефона in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 231,
+      "source_query": "эвакуатор телефон",
+      "fanout_query": "what is эвакуатор телефон",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 232,
+      "source_query": "эвакуатор телефон",
+      "fanout_query": "эвакуатор телефон comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 233,
+      "source_query": "эвакуатор телефон",
+      "fanout_query": "эвакуатор телефон cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 234,
+      "source_query": "эвакуатор телефон",
+      "fanout_query": "эвакуатор телефон risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 235,
+      "source_query": "эвакуатор телефон",
+      "fanout_query": "эвакуатор телефон alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 236,
+      "source_query": "эвакуатор телефон",
+      "fanout_query": "эвакуатор телефон requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 237,
+      "source_query": "эвакуатор телефон",
+      "fanout_query": "how to choose эвакуатор телефон",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 238,
+      "source_query": "эвакуатор телефон",
+      "fanout_query": "эвакуатор телефон mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 239,
+      "source_query": "эвакуатор телефон",
+      "fanout_query": "эвакуатор телефон questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 240,
+      "source_query": "эвакуатор телефон",
+      "fanout_query": "эвакуатор телефон in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 241,
+      "source_query": "служба эвакуаторов",
+      "fanout_query": "what is служба эвакуаторов",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 242,
+      "source_query": "служба эвакуаторов",
+      "fanout_query": "служба эвакуаторов comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 243,
+      "source_query": "служба эвакуаторов",
+      "fanout_query": "служба эвакуаторов cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 244,
+      "source_query": "служба эвакуаторов",
+      "fanout_query": "служба эвакуаторов risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 245,
+      "source_query": "служба эвакуаторов",
+      "fanout_query": "служба эвакуаторов alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 246,
+      "source_query": "служба эвакуаторов",
+      "fanout_query": "служба эвакуаторов requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 247,
+      "source_query": "служба эвакуаторов",
+      "fanout_query": "how to choose служба эвакуаторов",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 248,
+      "source_query": "служба эвакуаторов",
+      "fanout_query": "служба эвакуаторов mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 249,
+      "source_query": "служба эвакуаторов",
+      "fanout_query": "служба эвакуаторов questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 250,
+      "source_query": "служба эвакуаторов",
+      "fanout_query": "служба эвакуаторов in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 251,
+      "source_query": "эвакуатор номер",
+      "fanout_query": "what is эвакуатор номер",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 252,
+      "source_query": "эвакуатор номер",
+      "fanout_query": "эвакуатор номер comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 253,
+      "source_query": "эвакуатор номер",
+      "fanout_query": "эвакуатор номер cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 254,
+      "source_query": "эвакуатор номер",
+      "fanout_query": "эвакуатор номер risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 255,
+      "source_query": "эвакуатор номер",
+      "fanout_query": "эвакуатор номер alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 256,
+      "source_query": "эвакуатор номер",
+      "fanout_query": "эвакуатор номер requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 257,
+      "source_query": "эвакуатор номер",
+      "fanout_query": "how to choose эвакуатор номер",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 258,
+      "source_query": "эвакуатор номер",
+      "fanout_query": "эвакуатор номер mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 259,
+      "source_query": "эвакуатор номер",
+      "fanout_query": "эвакуатор номер questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 260,
+      "source_query": "эвакуатор номер",
+      "fanout_query": "эвакуатор номер in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 261,
+      "source_query": "evakuator xizmati narxlari",
+      "fanout_query": "what is evakuator xizmati narxlari",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 262,
+      "source_query": "evakuator xizmati narxlari",
+      "fanout_query": "evakuator xizmati narxlari comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 263,
+      "source_query": "evakuator xizmati narxlari",
+      "fanout_query": "evakuator xizmati narxlari cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 264,
+      "source_query": "evakuator xizmati narxlari",
+      "fanout_query": "evakuator xizmati narxlari risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 265,
+      "source_query": "evakuator xizmati narxlari",
+      "fanout_query": "evakuator xizmati narxlari alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 266,
+      "source_query": "evakuator xizmati narxlari",
+      "fanout_query": "evakuator xizmati narxlari requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 267,
+      "source_query": "evakuator xizmati narxlari",
+      "fanout_query": "how to choose evakuator xizmati narxlari",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 268,
+      "source_query": "evakuator xizmati narxlari",
+      "fanout_query": "evakuator xizmati narxlari mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 269,
+      "source_query": "evakuator xizmati narxlari",
+      "fanout_query": "evakuator xizmati narxlari questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 270,
+      "source_query": "evakuator xizmati narxlari",
+      "fanout_query": "evakuator xizmati narxlari in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 271,
+      "source_query": "эвакуатор уз",
+      "fanout_query": "what is эвакуатор уз",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 272,
+      "source_query": "эвакуатор уз",
+      "fanout_query": "эвакуатор уз comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 273,
+      "source_query": "эвакуатор уз",
+      "fanout_query": "эвакуатор уз cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 274,
+      "source_query": "эвакуатор уз",
+      "fanout_query": "эвакуатор уз risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 275,
+      "source_query": "эвакуатор уз",
+      "fanout_query": "эвакуатор уз alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 276,
+      "source_query": "эвакуатор уз",
+      "fanout_query": "эвакуатор уз requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 277,
+      "source_query": "эвакуатор уз",
+      "fanout_query": "how to choose эвакуатор уз",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 278,
+      "source_query": "эвакуатор уз",
+      "fanout_query": "эвакуатор уз mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 279,
+      "source_query": "эвакуатор уз",
+      "fanout_query": "эвакуатор уз questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 280,
+      "source_query": "эвакуатор уз",
+      "fanout_query": "эвакуатор уз in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 281,
+      "source_query": "эвакуатор сергели",
+      "fanout_query": "what is эвакуатор сергели",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 282,
+      "source_query": "эвакуатор сергели",
+      "fanout_query": "эвакуатор сергели comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 283,
+      "source_query": "эвакуатор сергели",
+      "fanout_query": "эвакуатор сергели cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 284,
+      "source_query": "эвакуатор сергели",
+      "fanout_query": "эвакуатор сергели risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 285,
+      "source_query": "эвакуатор сергели",
+      "fanout_query": "эвакуатор сергели alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 286,
+      "source_query": "эвакуатор сергели",
+      "fanout_query": "эвакуатор сергели requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 287,
+      "source_query": "эвакуатор сергели",
+      "fanout_query": "how to choose эвакуатор сергели",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 288,
+      "source_query": "эвакуатор сергели",
+      "fanout_query": "эвакуатор сергели mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 289,
+      "source_query": "эвакуатор сергели",
+      "fanout_query": "эвакуатор сергели questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 290,
+      "source_query": "эвакуатор сергели",
+      "fanout_query": "эвакуатор сергели in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 291,
+      "source_query": "заказать автоэвакуатор",
+      "fanout_query": "what is заказать автоэвакуатор",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 292,
+      "source_query": "заказать автоэвакуатор",
+      "fanout_query": "заказать автоэвакуатор comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 293,
+      "source_query": "заказать автоэвакуатор",
+      "fanout_query": "заказать автоэвакуатор cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 294,
+      "source_query": "заказать автоэвакуатор",
+      "fanout_query": "заказать автоэвакуатор risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 295,
+      "source_query": "заказать автоэвакуатор",
+      "fanout_query": "заказать автоэвакуатор alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 296,
+      "source_query": "заказать автоэвакуатор",
+      "fanout_query": "заказать автоэвакуатор requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 297,
+      "source_query": "заказать автоэвакуатор",
+      "fanout_query": "how to choose заказать автоэвакуатор",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 298,
+      "source_query": "заказать автоэвакуатор",
+      "fanout_query": "заказать автоэвакуатор mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 299,
+      "source_query": "заказать автоэвакуатор",
+      "fanout_query": "заказать автоэвакуатор questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 300,
+      "source_query": "заказать автоэвакуатор",
+      "fanout_query": "заказать автоэвакуатор in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 301,
+      "source_query": "эвакуатор хизмати",
+      "fanout_query": "what is эвакуатор хизмати",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 302,
+      "source_query": "эвакуатор хизмати",
+      "fanout_query": "эвакуатор хизмати comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 303,
+      "source_query": "эвакуатор хизмати",
+      "fanout_query": "эвакуатор хизмати cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 304,
+      "source_query": "эвакуатор хизмати",
+      "fanout_query": "эвакуатор хизмати risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 305,
+      "source_query": "эвакуатор хизмати",
+      "fanout_query": "эвакуатор хизмати alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 306,
+      "source_query": "эвакуатор хизмати",
+      "fanout_query": "эвакуатор хизмати requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 307,
+      "source_query": "эвакуатор хизмати",
+      "fanout_query": "how to choose эвакуатор хизмати",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 308,
+      "source_query": "эвакуатор хизмати",
+      "fanout_query": "эвакуатор хизмати mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 309,
+      "source_query": "эвакуатор хизмати",
+      "fanout_query": "эвакуатор хизмати questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 310,
+      "source_query": "эвакуатор хизмати",
+      "fanout_query": "эвакуатор хизмати in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 311,
+      "source_query": "эвакуатор юнусабад",
+      "fanout_query": "what is эвакуатор юнусабад",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 312,
+      "source_query": "эвакуатор юнусабад",
+      "fanout_query": "эвакуатор юнусабад comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 313,
+      "source_query": "эвакуатор юнусабад",
+      "fanout_query": "эвакуатор юнусабад cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 314,
+      "source_query": "эвакуатор юнусабад",
+      "fanout_query": "эвакуатор юнусабад risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 315,
+      "source_query": "эвакуатор юнусабад",
+      "fanout_query": "эвакуатор юнусабад alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 316,
+      "source_query": "эвакуатор юнусабад",
+      "fanout_query": "эвакуатор юнусабад requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 317,
+      "source_query": "эвакуатор юнусабад",
+      "fanout_query": "how to choose эвакуатор юнусабад",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 318,
+      "source_query": "эвакуатор юнусабад",
+      "fanout_query": "эвакуатор юнусабад mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 319,
+      "source_query": "эвакуатор юнусабад",
+      "fanout_query": "эвакуатор юнусабад questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 320,
+      "source_query": "эвакуатор юнусабад",
+      "fanout_query": "эвакуатор юнусабад in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 321,
+      "source_query": "эвакуатор цена",
+      "fanout_query": "what is эвакуатор цена",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 322,
+      "source_query": "эвакуатор цена",
+      "fanout_query": "эвакуатор цена comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 323,
+      "source_query": "эвакуатор цена",
+      "fanout_query": "эвакуатор цена cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 324,
+      "source_query": "эвакуатор цена",
+      "fanout_query": "эвакуатор цена risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 325,
+      "source_query": "эвакуатор цена",
+      "fanout_query": "эвакуатор цена alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 326,
+      "source_query": "эвакуатор цена",
+      "fanout_query": "эвакуатор цена requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 327,
+      "source_query": "эвакуатор цена",
+      "fanout_query": "how to choose эвакуатор цена",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 328,
+      "source_query": "эвакуатор цена",
+      "fanout_query": "эвакуатор цена mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 329,
+      "source_query": "эвакуатор цена",
+      "fanout_query": "эвакуатор цена questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 330,
+      "source_query": "эвакуатор цена",
+      "fanout_query": "эвакуатор цена in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 331,
+      "source_query": "эвакуатор легковых автомобилей",
+      "fanout_query": "what is эвакуатор легковых автомобилей",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 332,
+      "source_query": "эвакуатор легковых автомобилей",
+      "fanout_query": "эвакуатор легковых автомобилей comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 333,
+      "source_query": "эвакуатор легковых автомобилей",
+      "fanout_query": "эвакуатор легковых автомобилей cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 334,
+      "source_query": "эвакуатор легковых автомобилей",
+      "fanout_query": "эвакуатор легковых автомобилей risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 335,
+      "source_query": "эвакуатор легковых автомобилей",
+      "fanout_query": "эвакуатор легковых автомобилей alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 336,
+      "source_query": "эвакуатор легковых автомобилей",
+      "fanout_query": "эвакуатор легковых автомобилей requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 337,
+      "source_query": "эвакуатор легковых автомобилей",
+      "fanout_query": "how to choose эвакуатор легковых автомобилей",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 338,
+      "source_query": "эвакуатор легковых автомобилей",
+      "fanout_query": "эвакуатор легковых автомобилей mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 339,
+      "source_query": "эвакуатор легковых автомобилей",
+      "fanout_query": "эвакуатор легковых автомобилей questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 340,
+      "source_query": "эвакуатор легковых автомобилей",
+      "fanout_query": "эвакуатор легковых автомобилей in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 341,
+      "source_query": "эвакуатор стоимость",
+      "fanout_query": "what is эвакуатор стоимость",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 342,
+      "source_query": "эвакуатор стоимость",
+      "fanout_query": "эвакуатор стоимость comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 343,
+      "source_query": "эвакуатор стоимость",
+      "fanout_query": "эвакуатор стоимость cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 344,
+      "source_query": "эвакуатор стоимость",
+      "fanout_query": "эвакуатор стоимость risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 345,
+      "source_query": "эвакуатор стоимость",
+      "fanout_query": "эвакуатор стоимость alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 346,
+      "source_query": "эвакуатор стоимость",
+      "fanout_query": "эвакуатор стоимость requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 347,
+      "source_query": "эвакуатор стоимость",
+      "fanout_query": "how to choose эвакуатор стоимость",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 348,
+      "source_query": "эвакуатор стоимость",
+      "fanout_query": "эвакуатор стоимость mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 349,
+      "source_query": "эвакуатор стоимость",
+      "fanout_query": "эвакуатор стоимость questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 350,
+      "source_query": "эвакуатор стоимость",
+      "fanout_query": "эвакуатор стоимость in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 351,
+      "source_query": "номер телефона эвакуатора",
+      "fanout_query": "what is номер телефона эвакуатора",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 352,
+      "source_query": "номер телефона эвакуатора",
+      "fanout_query": "номер телефона эвакуатора comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 353,
+      "source_query": "номер телефона эвакуатора",
+      "fanout_query": "номер телефона эвакуатора cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 354,
+      "source_query": "номер телефона эвакуатора",
+      "fanout_query": "номер телефона эвакуатора risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 355,
+      "source_query": "номер телефона эвакуатора",
+      "fanout_query": "номер телефона эвакуатора alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 356,
+      "source_query": "номер телефона эвакуатора",
+      "fanout_query": "номер телефона эвакуатора requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 357,
+      "source_query": "номер телефона эвакуатора",
+      "fanout_query": "how to choose номер телефона эвакуатора",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 358,
+      "source_query": "номер телефона эвакуатора",
+      "fanout_query": "номер телефона эвакуатора mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 359,
+      "source_query": "номер телефона эвакуатора",
+      "fanout_query": "номер телефона эвакуатора questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 360,
+      "source_query": "номер телефона эвакуатора",
+      "fanout_query": "номер телефона эвакуатора in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 361,
+      "source_query": "эвакуатор срочно",
+      "fanout_query": "what is эвакуатор срочно",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 362,
+      "source_query": "эвакуатор срочно",
+      "fanout_query": "эвакуатор срочно comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 363,
+      "source_query": "эвакуатор срочно",
+      "fanout_query": "эвакуатор срочно cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 364,
+      "source_query": "эвакуатор срочно",
+      "fanout_query": "эвакуатор срочно risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 365,
+      "source_query": "эвакуатор срочно",
+      "fanout_query": "эвакуатор срочно alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 366,
+      "source_query": "эвакуатор срочно",
+      "fanout_query": "эвакуатор срочно requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 367,
+      "source_query": "эвакуатор срочно",
+      "fanout_query": "how to choose эвакуатор срочно",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 368,
+      "source_query": "эвакуатор срочно",
+      "fanout_query": "эвакуатор срочно mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 369,
+      "source_query": "эвакуатор срочно",
+      "fanout_query": "эвакуатор срочно questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 370,
+      "source_query": "эвакуатор срочно",
+      "fanout_query": "эвакуатор срочно in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 371,
+      "source_query": "заказать эвакуатор",
+      "fanout_query": "what is заказать эвакуатор",
+      "branch": "core_answer",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 372,
+      "source_query": "заказать эвакуатор",
+      "fanout_query": "заказать эвакуатор comparison",
+      "branch": "comparison",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 373,
+      "source_query": "заказать эвакуатор",
+      "fanout_query": "заказать эвакуатор cost",
+      "branch": "cost",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 374,
+      "source_query": "заказать эвакуатор",
+      "fanout_query": "заказать эвакуатор risks",
+      "branch": "risks",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 375,
+      "source_query": "заказать эвакуатор",
+      "fanout_query": "заказать эвакуатор alternatives",
+      "branch": "alternatives",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 376,
+      "source_query": "заказать эвакуатор",
+      "fanout_query": "заказать эвакуатор requirements",
+      "branch": "requirements",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 377,
+      "source_query": "заказать эвакуатор",
+      "fanout_query": "how to choose заказать эвакуатор",
+      "branch": "process",
+      "priority": "high",
+      "status": "draft"
+    },
+    {
+      "source_order": 378,
+      "source_query": "заказать эвакуатор",
+      "fanout_query": "заказать эвакуатор mistakes",
+      "branch": "mistakes",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 379,
+      "source_query": "заказать эвакуатор",
+      "fanout_query": "заказать эвакуатор questions",
+      "branch": "faq",
+      "priority": "medium",
+      "status": "draft"
+    },
+    {
+      "source_order": 380,
+      "source_query": "заказать эвакуатор",
+      "fanout_query": "заказать эвакуатор in Moscow",
+      "branch": "local",
+      "priority": "medium",
+      "status": "draft"
+    }
+  ],
+  "serp_rows": [],
+  "ai_answer_rows": [],
+  "serp_ai_analysis": {
+    "topic": "Услуги эвакуатора",
+    "domain": "evakuator.uz",
+    "brand": "",
+    "brand_variants_tracked": [
+      "EVAKUATOR.UZ",
+      "OOO MADAT LOGISTICS"
+    ],
+    "serp_row_count": 0,
+    "ai_answer_row_count": 0,
+    "project_serp_hits": [],
+    "project_url_citation_count": 0,
+    "answer_body_brand_mentions": 0,
+    "top_domains": [],
+    "cited_urls": [],
+    "title_term_patterns": [],
+    "retrieval_citation_brand_split": {
+      "ordinary_serp_presence": 0,
+      "final_citation_source_presence": 0,
+      "answer_body_brand_mentions": 0
+    },
+    "limitations": [
+      "No SERP rows imported or collected; SERP conclusions are lower-assurance.",
+      "No AI answer rows imported or collected; citation and brand mention conclusions are lower-assurance."
+    ]
+  },
+  "content_plan": [
+    {
+      "item_id": "cp-001",
+      "action": "update_or_create",
+      "topic": "Услуги эвакуатора",
+      "intent": "core_answer",
+      "target_url": "evakuator.uz",
+      "suggested_url": "/услуги-эвакуатора/",
+      "page_type": "focused_topic_page",
+      "priority": "high",
+      "evidence": "core topic and fan-out root",
+      "recommendation": "Create or update a focused answer page with clear title, H1, intro, short answer, criteria, risks, and FAQ only if useful."
+    },
+    {
+      "item_id": "cp-002",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-003",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-004",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-005",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-006",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор ташкент",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-ташкент/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-007",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/evakuator-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-008",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/evakuator-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-009",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/evakuator-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-010",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/evakuator-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-011",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose evakuator",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-evakuator/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-012",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-013",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-014",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-015",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-016",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-017",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-018",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-019",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-020",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-021",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose evakuator xizmati",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-evakuator-xizmati/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-022",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "вызвать эвакуатор comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/вызвать-эвакуатор-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-023",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "вызвать эвакуатор cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/вызвать-эвакуатор-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-024",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "вызвать эвакуатор risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/вызвать-эвакуатор-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-025",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "вызвать эвакуатор alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/вызвать-эвакуатор-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-026",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose вызвать эвакуатор",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-вызвать-эвакуатор/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-027",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор в ташкенте comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-в-ташкенте-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-028",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор в ташкенте cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-в-ташкенте-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-029",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор в ташкенте risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-в-ташкенте-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-030",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор в ташкенте alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-в-ташкенте-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-031",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор в ташкенте",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-в-ташкенте/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-032",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati toshkent comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-toshkent-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-033",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati toshkent cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-toshkent-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-034",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati toshkent risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-toshkent-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-035",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati toshkent alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-toshkent-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-036",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose evakuator xizmati toshkent",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-evakuator-xizmati-toshkent/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-037",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор машин comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-машин-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-038",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор машин cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-машин-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-039",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор машин risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-машин-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-040",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор машин alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-машин-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-041",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор машин",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-машин/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-042",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator tashkent comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/evakuator-tashkent-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-043",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator tashkent cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/evakuator-tashkent-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-044",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator tashkent risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/evakuator-tashkent-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-045",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator tashkent alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/evakuator-tashkent-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-046",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose evakuator tashkent",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-evakuator-tashkent/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-047",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "автомобильный эвакуатор comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/автомобильный-эвакуатор-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-048",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "автомобильный эвакуатор cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/автомобильный-эвакуатор-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-049",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "автомобильный эвакуатор risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/автомобильный-эвакуатор-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-050",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "автомобильный эвакуатор alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/автомобильный-эвакуатор-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-051",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose автомобильный эвакуатор",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-автомобильный-эвакуатор/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-052",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator nomerlari comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/evakuator-nomerlari-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-053",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator nomerlari cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/evakuator-nomerlari-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-054",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator nomerlari risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/evakuator-nomerlari-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-055",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator nomerlari alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/evakuator-nomerlari-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-056",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose evakuator nomerlari",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-evakuator-nomerlari/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-057",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент цена comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-цена-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-058",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент цена cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-цена-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-059",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент цена risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-цена-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-060",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент цена alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-цена-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-061",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор ташкент цена",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-ташкент-цена/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-062",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор услуги comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-услуги-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-063",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор услуги cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-услуги-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-064",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор услуги risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-услуги-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-065",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор услуги alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-услуги-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-066",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор услуги",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-услуги/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-067",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator toshkent comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/evakuator-toshkent-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-068",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator toshkent cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/evakuator-toshkent-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-069",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator toshkent risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/evakuator-toshkent-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-070",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator toshkent alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/evakuator-toshkent-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-071",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose evakuator toshkent",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-evakuator-toshkent/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-072",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент номер comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-номер-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-073",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент номер cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-номер-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-074",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент номер risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-номер-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-075",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент номер alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-номер-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-076",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор ташкент номер",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-ташкент-номер/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-077",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "евакуатор comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/евакуатор-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-078",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "евакуатор cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/евакуатор-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-079",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "евакуатор risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/евакуатор-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-080",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "евакуатор alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/евакуатор-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-081",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose евакуатор",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-евакуатор/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-082",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент дешево comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-дешево-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-083",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент дешево cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-дешево-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-084",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент дешево risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-дешево-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-085",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент дешево alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-дешево-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-086",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор ташкент дешево",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-ташкент-дешево/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-087",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuatr comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/evakuatr-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-088",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuatr cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/evakuatr-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-089",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuatr risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/evakuatr-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-090",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuatr alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/evakuatr-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-091",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose evakuatr",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-evakuatr/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-092",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "услуги эвакуатора comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/услуги-эвакуатора-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-093",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "услуги эвакуатора cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/услуги-эвакуатора-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-094",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "услуги эвакуатора risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/услуги-эвакуатора-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-095",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "услуги эвакуатора alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/услуги-эвакуатора-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-096",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose услуги эвакуатора",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-услуги-эвакуатора/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-097",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator uz comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/evakuator-uz-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-098",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator uz cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/evakuator-uz-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-099",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator uz risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/evakuator-uz-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-100",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator uz alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/evakuator-uz-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-101",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose evakuator uz",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-evakuator-uz/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-102",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "телефон эвакуатора comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/телефон-эвакуатора-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-103",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "телефон эвакуатора cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/телефон-эвакуатора-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-104",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "телефон эвакуатора risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/телефон-эвакуатора-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-105",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "телефон эвакуатора alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/телефон-эвакуатора-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-106",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose телефон эвакуатора",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-телефон-эвакуатора/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-107",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "номер эвакуатора comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/номер-эвакуатора-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-108",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "номер эвакуатора cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/номер-эвакуатора-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-109",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "номер эвакуатора risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/номер-эвакуатора-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-110",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "номер эвакуатора alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/номер-эвакуатора-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-111",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose номер эвакуатора",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-номер-эвакуатора/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-112",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент номер телефона comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-номер-телефона-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-113",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент номер телефона cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-номер-телефона-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-114",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент номер телефона risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-номер-телефона-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-115",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор ташкент номер телефона alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-ташкент-номер-телефона-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-116",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор ташкент номер телефона",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-ташкент-номер-телефона/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-117",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор телефон comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-телефон-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-118",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор телефон cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-телефон-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-119",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор телефон risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-телефон-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-120",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор телефон alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-телефон-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-121",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор телефон",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-телефон/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-122",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "служба эвакуаторов comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/служба-эвакуаторов-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-123",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "служба эвакуаторов cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/служба-эвакуаторов-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-124",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "служба эвакуаторов risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/служба-эвакуаторов-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-125",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "служба эвакуаторов alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/служба-эвакуаторов-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-126",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose служба эвакуаторов",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-служба-эвакуаторов/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-127",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор номер comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-номер-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-128",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор номер cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-номер-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-129",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор номер risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-номер-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-130",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор номер alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-номер-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-131",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор номер",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-номер/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-132",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati narxlari comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-narxlari-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-133",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati narxlari cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-narxlari-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-134",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati narxlari risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-narxlari-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-135",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "evakuator xizmati narxlari alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/evakuator-xizmati-narxlari-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-136",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose evakuator xizmati narxlari",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-evakuator-xizmati-narxlari/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-137",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор уз comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-уз-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-138",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор уз cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-уз-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-139",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор уз risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-уз-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-140",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор уз alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-уз-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-141",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор уз",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-уз/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-142",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор сергели comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-сергели-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-143",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор сергели cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-сергели-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-144",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор сергели risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-сергели-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-145",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор сергели alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-сергели-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-146",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор сергели",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-сергели/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-147",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "заказать автоэвакуатор comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/заказать-автоэвакуатор-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-148",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "заказать автоэвакуатор cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/заказать-автоэвакуатор-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-149",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "заказать автоэвакуатор risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/заказать-автоэвакуатор-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-150",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "заказать автоэвакуатор alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/заказать-автоэвакуатор-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-151",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose заказать автоэвакуатор",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-заказать-автоэвакуатор/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-152",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор хизмати comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-хизмати-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-153",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор хизмати cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-хизмати-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-154",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор хизмати risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-хизмати-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-155",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор хизмати alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-хизмати-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-156",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор хизмати",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-хизмати/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-157",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор юнусабад comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-юнусабад-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-158",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор юнусабад cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-юнусабад-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-159",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор юнусабад risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-юнусабад-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-160",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор юнусабад alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-юнусабад-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-161",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор юнусабад",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-юнусабад/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-162",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор цена comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-цена-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-163",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор цена cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-цена-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-164",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор цена risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-цена-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-165",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор цена alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-цена-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-166",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор цена",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-цена/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-167",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор легковых автомобилей comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-легковых-автомобилей-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-168",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор легковых автомобилей cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-легковых-автомобилей-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-169",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор легковых автомобилей risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-легковых-автомобилей-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-170",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор легковых автомобилей alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-легковых-автомобилей-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-171",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор легковых автомобилей",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-легковых-автомобилей/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-172",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор стоимость comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-стоимость-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-173",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор стоимость cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-стоимость-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-174",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор стоимость risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-стоимость-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-175",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор стоимость alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-стоимость-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-176",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор стоимость",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-стоимость/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-177",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "номер телефона эвакуатора comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/номер-телефона-эвакуатора-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-178",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "номер телефона эвакуатора cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/номер-телефона-эвакуатора-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-179",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "номер телефона эвакуатора risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/номер-телефона-эвакуатора-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-180",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "номер телефона эвакуатора alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/номер-телефона-эвакуатора-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-181",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose номер телефона эвакуатора",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-номер-телефона-эвакуатора/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-182",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор срочно comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-срочно-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-183",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор срочно cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-срочно-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-184",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор срочно risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-срочно-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-185",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "эвакуатор срочно alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/эвакуатор-срочно-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-186",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose эвакуатор срочно",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-эвакуатор-срочно/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-187",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "заказать эвакуатор comparison",
+      "intent": "comparison",
+      "target_url": "",
+      "suggested_url": "/заказать-эвакуатор-comparison/",
+      "page_type": "supporting_qfo_module",
+      "priority": "high",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-188",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "заказать эвакуатор cost",
+      "intent": "cost",
+      "target_url": "",
+      "suggested_url": "/заказать-эвакуатор-cost/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-189",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "заказать эвакуатор risks",
+      "intent": "risks",
+      "target_url": "",
+      "suggested_url": "/заказать-эвакуатор-risks/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-190",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "заказать эвакуатор alternatives",
+      "intent": "alternatives",
+      "target_url": "",
+      "suggested_url": "/заказать-эвакуатор-alternatives/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    },
+    {
+      "item_id": "cp-191",
+      "action": "section_or_separate_page_after_overlap_check",
+      "topic": "how to choose заказать эвакуатор",
+      "intent": "process",
+      "target_url": "",
+      "suggested_url": "/how-to-choose-заказать-эвакуатор/",
+      "page_type": "supporting_qfo_module",
+      "priority": "medium",
+      "evidence": "fan-out branch",
+      "recommendation": "Use as a page section unless SERP/AI evidence proves a materially distinct user task."
+    }
+  ],
+  "source_artifacts": {
+    "semantic_cluster_csv": "geo_agent/data/processed/услуги-эвакуатора_semantic_cluster_queries.csv",
+    "fanout_csv": "geo_agent/data/processed/услуги-эвакуатора_fanout_queries.csv",
+    "serp_csv": "geo_agent/data/processed/услуги-эвакуатора_serp_rows.csv",
+    "ai_csv": "geo_agent/data/processed/услуги-эвакуатора_ai_answers.csv",
+    "content_plan_csv": "geo_agent/data/processed/услуги-эвакуатора_content_plan.csv"
+  },
+  "assumptions": [
+    "No SERP rows imported or collected; SERP conclusions are lower-assurance.",
+    "No AI answer rows imported or collected; citation and brand mention conclusions are lower-assurance."
+  ],
+  "next_valid_actions": [
+    "Review handoff JSON.",
+    "Invoke discovered semantic TZ generator only after checking its own permission contract.",
+    "Import generated TZ back into content workflow."
+  ]
+}

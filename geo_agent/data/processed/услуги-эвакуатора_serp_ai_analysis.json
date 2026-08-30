@@ -1,0 +1,26 @@
+{
+  "topic": "Услуги эвакуатора",
+  "domain": "evakuator.uz",
+  "brand": "",
+  "brand_variants_tracked": [
+    "EVAKUATOR.UZ",
+    "OOO MADAT LOGISTICS"
+  ],
+  "serp_row_count": 0,
+  "ai_answer_row_count": 0,
+  "project_serp_hits": [],
+  "project_url_citation_count": 0,
+  "answer_body_brand_mentions": 0,
+  "top_domains": [],
+  "cited_urls": [],
+  "title_term_patterns": [],
+  "retrieval_citation_brand_split": {
+    "ordinary_serp_presence": 0,
+    "final_citation_source_presence": 0,
+    "answer_body_brand_mentions": 0
+  },
+  "limitations": [
+    "No SERP rows imported or collected; SERP conclusions are lower-assurance.",
+    "No AI answer rows imported or collected; citation and brand mention conclusions are lower-assurance."
+  ]
+}

@@ -1,6 +1,6 @@
 # PROJECT_CONTEXT
 
-Generated: 2026-08-30T16:47:58+00:00
+Generated: 2026-08-30T16:56:03+00:00
 
 ## Project
 
@@ -8,7 +8,7 @@ Generated: 2026-08-30T16:47:58+00:00
 - Brand: not provided
 - Brand variants status: confirmed
 - Brand variants confirmation required: False
-- Topic: not provided
+- Topic: Услуги эвакуатора
 - Goal: both
 - Language: 
 - Region: -
@@ -22,14 +22,51 @@ The agent must ask the user to confirm or edit all brand spellings before citati
 - OOO MADAT LOGISTICS
 ## Semantic Cluster Queries
 
-- Status: missing
-- Source: not_provided
-- Topic binding: not provided
-- Confirmation required: True
+- Status: confirmed
+- Source: user_supplied
+- Topic binding: Услуги эвакуатора
+- Confirmation required: False
 
 Only confirmed user-supplied or user-approved semantic cluster queries may be used as SERP/AI collection seeds; QFO planning must use AI-cited title semantics plus optional user-supplied ChatGPT QFO context. A bare topic is not a query cluster. Agent-drafted semantics are only a pending user approval proposal until the user approves or edits them.
 
-- none
+- эвакуатор ташкент
+- evakuator
+- эвакуатор
+- evakuator xizmati
+- вызвать эвакуатор
+- эвакуатор в ташкенте
+- evakuator xizmati toshkent
+- эвакуатор машин
+- evakuator tashkent
+- автомобильный эвакуатор
+- evakuator nomerlari
+- эвакуатор ташкент цена
+- эвакуатор услуги
+- evakuator toshkent
+- эвакуатор ташкент номер
+- евакуатор
+- эвакуатор ташкент дешево
+- evakuatr
+- услуги эвакуатора
+- evakuator uz
+- телефон эвакуатора
+- номер эвакуатора
+- эвакуатор ташкент номер телефона
+- эвакуатор телефон
+- служба эвакуаторов
+- эвакуатор номер
+- evakuator xizmati narxlari
+- эвакуатор уз
+- эвакуатор сергели
+- заказать автоэвакуатор
+- эвакуатор хизмати
+- эвакуатор юнусабад
+- эвакуатор цена
+- эвакуатор легковых автомобилей
+- эвакуатор стоимость
+- номер телефона эвакуатора
+- эвакуатор срочно
+- заказать эвакуатор
 ## Context Boundary
 
 This report is product and business context. It does not perform robots.txt checks, sitemap checks, user-agent probing, WAF/anti-bot diagnosis, or server accessibility audit. Run `audit-access` or `llm-access-audit` only as a separate explicit step.
@@ -123,4 +160,3 @@ This report is product and business context. It does not perform robots.txt chec
 ## Assumptions
 
 - Brand was not provided.
-- Topic was not provided.

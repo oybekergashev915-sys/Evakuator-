@@ -1,0 +1,381 @@
+﻿source_order,source_query,fanout_query,branch,priority,status
+1,эвакуатор ташкент,what is эвакуатор ташкент,core_answer,high,draft
+2,эвакуатор ташкент,эвакуатор ташкент comparison,comparison,high,draft
+3,эвакуатор ташкент,эвакуатор ташкент cost,cost,medium,draft
+4,эвакуатор ташкент,эвакуатор ташкент risks,risks,medium,draft
+5,эвакуатор ташкент,эвакуатор ташкент alternatives,alternatives,medium,draft
+6,эвакуатор ташкент,эвакуатор ташкент requirements,requirements,medium,draft
+7,эвакуатор ташкент,how to choose эвакуатор ташкент,process,high,draft
+8,эвакуатор ташкент,эвакуатор ташкент mistakes,mistakes,medium,draft
+9,эвакуатор ташкент,эвакуатор ташкент questions,faq,medium,draft
+10,эвакуатор ташкент,эвакуатор ташкент in Moscow,local,medium,draft
+11,evakuator,what is evakuator,core_answer,high,draft
+12,evakuator,evakuator comparison,comparison,high,draft
+13,evakuator,evakuator cost,cost,medium,draft
+14,evakuator,evakuator risks,risks,medium,draft
+15,evakuator,evakuator alternatives,alternatives,medium,draft
+16,evakuator,evakuator requirements,requirements,medium,draft
+17,evakuator,how to choose evakuator,process,high,draft
+18,evakuator,evakuator mistakes,mistakes,medium,draft
+19,evakuator,evakuator questions,faq,medium,draft
+20,evakuator,evakuator in Moscow,local,medium,draft
+21,эвакуатор,what is эвакуатор,core_answer,high,draft
+22,эвакуатор,эвакуатор comparison,comparison,high,draft
+23,эвакуатор,эвакуатор cost,cost,medium,draft
+24,эвакуатор,эвакуатор risks,risks,medium,draft
+25,эвакуатор,эвакуатор alternatives,alternatives,medium,draft
+26,эвакуатор,эвакуатор requirements,requirements,medium,draft
+27,эвакуатор,how to choose эвакуатор,process,high,draft
+28,эвакуатор,эвакуатор mistakes,mistakes,medium,draft
+29,эвакуатор,эвакуатор questions,faq,medium,draft
+30,эвакуатор,эвакуатор in Moscow,local,medium,draft
+31,evakuator xizmati,what is evakuator xizmati,core_answer,high,draft
+32,evakuator xizmati,evakuator xizmati comparison,comparison,high,draft
+33,evakuator xizmati,evakuator xizmati cost,cost,medium,draft
+34,evakuator xizmati,evakuator xizmati risks,risks,medium,draft
+35,evakuator xizmati,evakuator xizmati alternatives,alternatives,medium,draft
+36,evakuator xizmati,evakuator xizmati requirements,requirements,medium,draft
+37,evakuator xizmati,how to choose evakuator xizmati,process,high,draft
+38,evakuator xizmati,evakuator xizmati mistakes,mistakes,medium,draft
+39,evakuator xizmati,evakuator xizmati questions,faq,medium,draft
+40,evakuator xizmati,evakuator xizmati in Moscow,local,medium,draft
+41,вызвать эвакуатор,what is вызвать эвакуатор,core_answer,high,draft
+42,вызвать эвакуатор,вызвать эвакуатор comparison,comparison,high,draft
+43,вызвать эвакуатор,вызвать эвакуатор cost,cost,medium,draft
+44,вызвать эвакуатор,вызвать эвакуатор risks,risks,medium,draft
+45,вызвать эвакуатор,вызвать эвакуатор alternatives,alternatives,medium,draft
+46,вызвать эвакуатор,вызвать эвакуатор requirements,requirements,medium,draft
+47,вызвать эвакуатор,how to choose вызвать эвакуатор,process,high,draft
+48,вызвать эвакуатор,вызвать эвакуатор mistakes,mistakes,medium,draft
+49,вызвать эвакуатор,вызвать эвакуатор questions,faq,medium,draft
+50,вызвать эвакуатор,вызвать эвакуатор in Moscow,local,medium,draft
+51,эвакуатор в ташкенте,what is эвакуатор в ташкенте,core_answer,high,draft
+52,эвакуатор в ташкенте,эвакуатор в ташкенте comparison,comparison,high,draft
+53,эвакуатор в ташкенте,эвакуатор в ташкенте cost,cost,medium,draft
+54,эвакуатор в ташкенте,эвакуатор в ташкенте risks,risks,medium,draft
+55,эвакуатор в ташкенте,эвакуатор в ташкенте alternatives,alternatives,medium,draft
+56,эвакуатор в ташкенте,эвакуатор в ташкенте requirements,requirements,medium,draft
+57,эвакуатор в ташкенте,how to choose эвакуатор в ташкенте,process,high,draft
+58,эвакуатор в ташкенте,эвакуатор в ташкенте mistakes,mistakes,medium,draft
+59,эвакуатор в ташкенте,эвакуатор в ташкенте questions,faq,medium,draft
+60,эвакуатор в ташкенте,эвакуатор в ташкенте in Moscow,local,medium,draft
+61,evakuator xizmati toshkent,what is evakuator xizmati toshkent,core_answer,high,draft
+62,evakuator xizmati toshkent,evakuator xizmati toshkent comparison,comparison,high,draft
+63,evakuator xizmati toshkent,evakuator xizmati toshkent cost,cost,medium,draft
+64,evakuator xizmati toshkent,evakuator xizmati toshkent risks,risks,medium,draft
+65,evakuator xizmati toshkent,evakuator xizmati toshkent alternatives,alternatives,medium,draft
+66,evakuator xizmati toshkent,evakuator xizmati toshkent requirements,requirements,medium,draft
+67,evakuator xizmati toshkent,how to choose evakuator xizmati toshkent,process,high,draft
+68,evakuator xizmati toshkent,evakuator xizmati toshkent mistakes,mistakes,medium,draft
+69,evakuator xizmati toshkent,evakuator xizmati toshkent questions,faq,medium,draft
+70,evakuator xizmati toshkent,evakuator xizmati toshkent in Moscow,local,medium,draft
+71,эвакуатор машин,what is эвакуатор машин,core_answer,high,draft
+72,эвакуатор машин,эвакуатор машин comparison,comparison,high,draft
+73,эвакуатор машин,эвакуатор машин cost,cost,medium,draft
+74,эвакуатор машин,эвакуатор машин risks,risks,medium,draft
+75,эвакуатор машин,эвакуатор машин alternatives,alternatives,medium,draft
+76,эвакуатор машин,эвакуатор машин requirements,requirements,medium,draft
+77,эвакуатор машин,how to choose эвакуатор машин,process,high,draft
+78,эвакуатор машин,эвакуатор машин mistakes,mistakes,medium,draft
+79,эвакуатор машин,эвакуатор машин questions,faq,medium,draft
+80,эвакуатор машин,эвакуатор машин in Moscow,local,medium,draft
+81,evakuator tashkent,what is evakuator tashkent,core_answer,high,draft
+82,evakuator tashkent,evakuator tashkent comparison,comparison,high,draft
+83,evakuator tashkent,evakuator tashkent cost,cost,medium,draft
+84,evakuator tashkent,evakuator tashkent risks,risks,medium,draft
+85,evakuator tashkent,evakuator tashkent alternatives,alternatives,medium,draft
+86,evakuator tashkent,evakuator tashkent requirements,requirements,medium,draft
+87,evakuator tashkent,how to choose evakuator tashkent,process,high,draft
+88,evakuator tashkent,evakuator tashkent mistakes,mistakes,medium,draft
+89,evakuator tashkent,evakuator tashkent questions,faq,medium,draft
+90,evakuator tashkent,evakuator tashkent in Moscow,local,medium,draft
+91,автомобильный эвакуатор,what is автомобильный эвакуатор,core_answer,high,draft
+92,автомобильный эвакуатор,автомобильный эвакуатор comparison,comparison,high,draft
+93,автомобильный эвакуатор,автомобильный эвакуатор cost,cost,medium,draft
+94,автомобильный эвакуатор,автомобильный эвакуатор risks,risks,medium,draft
+95,автомобильный эвакуатор,автомобильный эвакуатор alternatives,alternatives,medium,draft
+96,автомобильный эвакуатор,автомобильный эвакуатор requirements,requirements,medium,draft
+97,автомобильный эвакуатор,how to choose автомобильный эвакуатор,process,high,draft
+98,автомобильный эвакуатор,автомобильный эвакуатор mistakes,mistakes,medium,draft
+99,автомобильный эвакуатор,автомобильный эвакуатор questions,faq,medium,draft
+100,автомобильный эвакуатор,автомобильный эвакуатор in Moscow,local,medium,draft
+101,evakuator nomerlari,what is evakuator nomerlari,core_answer,high,draft
+102,evakuator nomerlari,evakuator nomerlari comparison,comparison,high,draft
+103,evakuator nomerlari,evakuator nomerlari cost,cost,medium,draft
+104,evakuator nomerlari,evakuator nomerlari risks,risks,medium,draft
+105,evakuator nomerlari,evakuator nomerlari alternatives,alternatives,medium,draft
+106,evakuator nomerlari,evakuator nomerlari requirements,requirements,medium,draft
+107,evakuator nomerlari,how to choose evakuator nomerlari,process,high,draft
+108,evakuator nomerlari,evakuator nomerlari mistakes,mistakes,medium,draft
+109,evakuator nomerlari,evakuator nomerlari questions,faq,medium,draft
+110,evakuator nomerlari,evakuator nomerlari in Moscow,local,medium,draft
+111,эвакуатор ташкент цена,what is эвакуатор ташкент цена,core_answer,high,draft
+112,эвакуатор ташкент цена,эвакуатор ташкент цена comparison,comparison,high,draft
+113,эвакуатор ташкент цена,эвакуатор ташкент цена cost,cost,medium,draft
+114,эвакуатор ташкент цена,эвакуатор ташкент цена risks,risks,medium,draft
+115,эвакуатор ташкент цена,эвакуатор ташкент цена alternatives,alternatives,medium,draft
+116,эвакуатор ташкент цена,эвакуатор ташкент цена requirements,requirements,medium,draft
+117,эвакуатор ташкент цена,how to choose эвакуатор ташкент цена,process,high,draft
+118,эвакуатор ташкент цена,эвакуатор ташкент цена mistakes,mistakes,medium,draft
+119,эвакуатор ташкент цена,эвакуатор ташкент цена questions,faq,medium,draft
+120,эвакуатор ташкент цена,эвакуатор ташкент цена in Moscow,local,medium,draft
+121,эвакуатор услуги,what is эвакуатор услуги,core_answer,high,draft
+122,эвакуатор услуги,эвакуатор услуги comparison,comparison,high,draft
+123,эвакуатор услуги,эвакуатор услуги cost,cost,medium,draft
+124,эвакуатор услуги,эвакуатор услуги risks,risks,medium,draft
+125,эвакуатор услуги,эвакуатор услуги alternatives,alternatives,medium,draft
+126,эвакуатор услуги,эвакуатор услуги requirements,requirements,medium,draft
+127,эвакуатор услуги,how to choose эвакуатор услуги,process,high,draft
+128,эвакуатор услуги,эвакуатор услуги mistakes,mistakes,medium,draft
+129,эвакуатор услуги,эвакуатор услуги questions,faq,medium,draft
+130,эвакуатор услуги,эвакуатор услуги in Moscow,local,medium,draft
+131,evakuator toshkent,what is evakuator toshkent,core_answer,high,draft
+132,evakuator toshkent,evakuator toshkent comparison,comparison,high,draft
+133,evakuator toshkent,evakuator toshkent cost,cost,medium,draft
+134,evakuator toshkent,evakuator toshkent risks,risks,medium,draft
+135,evakuator toshkent,evakuator toshkent alternatives,alternatives,medium,draft
+136,evakuator toshkent,evakuator toshkent requirements,requirements,medium,draft
+137,evakuator toshkent,how to choose evakuator toshkent,process,high,draft
+138,evakuator toshkent,evakuator toshkent mistakes,mistakes,medium,draft
+139,evakuator toshkent,evakuator toshkent questions,faq,medium,draft
+140,evakuator toshkent,evakuator toshkent in Moscow,local,medium,draft
+141,эвакуатор ташкент номер,what is эвакуатор ташкент номер,core_answer,high,draft
+142,эвакуатор ташкент номер,эвакуатор ташкент номер comparison,comparison,high,draft
+143,эвакуатор ташкент номер,эвакуатор ташкент номер cost,cost,medium,draft
+144,эвакуатор ташкент номер,эвакуатор ташкент номер risks,risks,medium,draft
+145,эвакуатор ташкент номер,эвакуатор ташкент номер alternatives,alternatives,medium,draft
+146,эвакуатор ташкент номер,эвакуатор ташкент номер requirements,requirements,medium,draft
+147,эвакуатор ташкент номер,how to choose эвакуатор ташкент номер,process,high,draft
+148,эвакуатор ташкент номер,эвакуатор ташкент номер mistakes,mistakes,medium,draft
+149,эвакуатор ташкент номер,эвакуатор ташкент номер questions,faq,medium,draft
+150,эвакуатор ташкент номер,эвакуатор ташкент номер in Moscow,local,medium,draft
+151,евакуатор,what is евакуатор,core_answer,high,draft
+152,евакуатор,евакуатор comparison,comparison,high,draft
+153,евакуатор,евакуатор cost,cost,medium,draft
+154,евакуатор,евакуатор risks,risks,medium,draft
+155,евакуатор,евакуатор alternatives,alternatives,medium,draft
+156,евакуатор,евакуатор requirements,requirements,medium,draft
+157,евакуатор,how to choose евакуатор,process,high,draft
+158,евакуатор,евакуатор mistakes,mistakes,medium,draft
+159,евакуатор,евакуатор questions,faq,medium,draft
+160,евакуатор,евакуатор in Moscow,local,medium,draft
+161,эвакуатор ташкент дешево,what is эвакуатор ташкент дешево,core_answer,high,draft
+162,эвакуатор ташкент дешево,эвакуатор ташкент дешево comparison,comparison,high,draft
+163,эвакуатор ташкент дешево,эвакуатор ташкент дешево cost,cost,medium,draft
+164,эвакуатор ташкент дешево,эвакуатор ташкент дешево risks,risks,medium,draft
+165,эвакуатор ташкент дешево,эвакуатор ташкент дешево alternatives,alternatives,medium,draft
+166,эвакуатор ташкент дешево,эвакуатор ташкент дешево requirements,requirements,medium,draft
+167,эвакуатор ташкент дешево,how to choose эвакуатор ташкент дешево,process,high,draft
+168,эвакуатор ташкент дешево,эвакуатор ташкент дешево mistakes,mistakes,medium,draft
+169,эвакуатор ташкент дешево,эвакуатор ташкент дешево questions,faq,medium,draft
+170,эвакуатор ташкент дешево,эвакуатор ташкент дешево in Moscow,local,medium,draft
+171,evakuatr,what is evakuatr,core_answer,high,draft
+172,evakuatr,evakuatr comparison,comparison,high,draft
+173,evakuatr,evakuatr cost,cost,medium,draft
+174,evakuatr,evakuatr risks,risks,medium,draft
+175,evakuatr,evakuatr alternatives,alternatives,medium,draft
+176,evakuatr,evakuatr requirements,requirements,medium,draft
+177,evakuatr,how to choose evakuatr,process,high,draft
+178,evakuatr,evakuatr mistakes,mistakes,medium,draft
+179,evakuatr,evakuatr questions,faq,medium,draft
+180,evakuatr,evakuatr in Moscow,local,medium,draft
+181,услуги эвакуатора,what is услуги эвакуатора,core_answer,high,draft
+182,услуги эвакуатора,услуги эвакуатора comparison,comparison,high,draft
+183,услуги эвакуатора,услуги эвакуатора cost,cost,medium,draft
+184,услуги эвакуатора,услуги эвакуатора risks,risks,medium,draft
+185,услуги эвакуатора,услуги эвакуатора alternatives,alternatives,medium,draft
+186,услуги эвакуатора,услуги эвакуатора requirements,requirements,medium,draft
+187,услуги эвакуатора,how to choose услуги эвакуатора,process,high,draft
+188,услуги эвакуатора,услуги эвакуатора mistakes,mistakes,medium,draft
+189,услуги эвакуатора,услуги эвакуатора questions,faq,medium,draft
+190,услуги эвакуатора,услуги эвакуатора in Moscow,local,medium,draft
+191,evakuator uz,what is evakuator uz,core_answer,high,draft
+192,evakuator uz,evakuator uz comparison,comparison,high,draft
+193,evakuator uz,evakuator uz cost,cost,medium,draft
+194,evakuator uz,evakuator uz risks,risks,medium,draft
+195,evakuator uz,evakuator uz alternatives,alternatives,medium,draft
+196,evakuator uz,evakuator uz requirements,requirements,medium,draft
+197,evakuator uz,how to choose evakuator uz,process,high,draft
+198,evakuator uz,evakuator uz mistakes,mistakes,medium,draft
+199,evakuator uz,evakuator uz questions,faq,medium,draft
+200,evakuator uz,evakuator uz in Moscow,local,medium,draft
+201,телефон эвакуатора,what is телефон эвакуатора,core_answer,high,draft
+202,телефон эвакуатора,телефон эвакуатора comparison,comparison,high,draft
+203,телефон эвакуатора,телефон эвакуатора cost,cost,medium,draft
+204,телефон эвакуатора,телефон эвакуатора risks,risks,medium,draft
+205,телефон эвакуатора,телефон эвакуатора alternatives,alternatives,medium,draft
+206,телефон эвакуатора,телефон эвакуатора requirements,requirements,medium,draft
+207,телефон эвакуатора,how to choose телефон эвакуатора,process,high,draft
+208,телефон эвакуатора,телефон эвакуатора mistakes,mistakes,medium,draft
+209,телефон эвакуатора,телефон эвакуатора questions,faq,medium,draft
+210,телефон эвакуатора,телефон эвакуатора in Moscow,local,medium,draft
+211,номер эвакуатора,what is номер эвакуатора,core_answer,high,draft
+212,номер эвакуатора,номер эвакуатора comparison,comparison,high,draft
+213,номер эвакуатора,номер эвакуатора cost,cost,medium,draft
+214,номер эвакуатора,номер эвакуатора risks,risks,medium,draft
+215,номер эвакуатора,номер эвакуатора alternatives,alternatives,medium,draft
+216,номер эвакуатора,номер эвакуатора requirements,requirements,medium,draft
+217,номер эвакуатора,how to choose номер эвакуатора,process,high,draft
+218,номер эвакуатора,номер эвакуатора mistakes,mistakes,medium,draft
+219,номер эвакуатора,номер эвакуатора questions,faq,medium,draft
+220,номер эвакуатора,номер эвакуатора in Moscow,local,medium,draft
+221,эвакуатор ташкент номер телефона,what is эвакуатор ташкент номер телефона,core_answer,high,draft
+222,эвакуатор ташкент номер телефона,эвакуатор ташкент номер телефона comparison,comparison,high,draft
+223,эвакуатор ташкент номер телефона,эвакуатор ташкент номер телефона cost,cost,medium,draft
+224,эвакуатор ташкент номер телефона,эвакуатор ташкент номер телефона risks,risks,medium,draft
+225,эвакуатор ташкент номер телефона,эвакуатор ташкент номер телефона alternatives,alternatives,medium,draft
+226,эвакуатор ташкент номер телефона,эвакуатор ташкент номер телефона requirements,requirements,medium,draft
+227,эвакуатор ташкент номер телефона,how to choose эвакуатор ташкент номер телефона,process,high,draft
+228,эвакуатор ташкент номер телефона,эвакуатор ташкент номер телефона mistakes,mistakes,medium,draft
+229,эвакуатор ташкент номер телефона,эвакуатор ташкент номер телефона questions,faq,medium,draft
+230,эвакуатор ташкент номер телефона,эвакуатор ташкент номер телефона in Moscow,local,medium,draft
+231,эвакуатор телефон,what is эвакуатор телефон,core_answer,high,draft
+232,эвакуатор телефон,эвакуатор телефон comparison,comparison,high,draft
+233,эвакуатор телефон,эвакуатор телефон cost,cost,medium,draft
+234,эвакуатор телефон,эвакуатор телефон risks,risks,medium,draft
+235,эвакуатор телефон,эвакуатор телефон alternatives,alternatives,medium,draft
+236,эвакуатор телефон,эвакуатор телефон requirements,requirements,medium,draft
+237,эвакуатор телефон,how to choose эвакуатор телефон,process,high,draft
+238,эвакуатор телефон,эвакуатор телефон mistakes,mistakes,medium,draft
+239,эвакуатор телефон,эвакуатор телефон questions,faq,medium,draft
+240,эвакуатор телефон,эвакуатор телефон in Moscow,local,medium,draft
+241,служба эвакуаторов,what is служба эвакуаторов,core_answer,high,draft
+242,служба эвакуаторов,служба эвакуаторов comparison,comparison,high,draft
+243,служба эвакуаторов,служба эвакуаторов cost,cost,medium,draft
+244,служба эвакуаторов,служба эвакуаторов risks,risks,medium,draft
+245,служба эвакуаторов,служба эвакуаторов alternatives,alternatives,medium,draft
+246,служба эвакуаторов,служба эвакуаторов requirements,requirements,medium,draft
+247,служба эвакуаторов,how to choose служба эвакуаторов,process,high,draft
+248,служба эвакуаторов,служба эвакуаторов mistakes,mistakes,medium,draft
+249,служба эвакуаторов,служба эвакуаторов questions,faq,medium,draft
+250,служба эвакуаторов,служба эвакуаторов in Moscow,local,medium,draft
+251,эвакуатор номер,what is эвакуатор номер,core_answer,high,draft
+252,эвакуатор номер,эвакуатор номер comparison,comparison,high,draft
+253,эвакуатор номер,эвакуатор номер cost,cost,medium,draft
+254,эвакуатор номер,эвакуатор номер risks,risks,medium,draft
+255,эвакуатор номер,эвакуатор номер alternatives,alternatives,medium,draft
+256,эвакуатор номер,эвакуатор номер requirements,requirements,medium,draft
+257,эвакуатор номер,how to choose эвакуатор номер,process,high,draft
+258,эвакуатор номер,эвакуатор номер mistakes,mistakes,medium,draft
+259,эвакуатор номер,эвакуатор номер questions,faq,medium,draft
+260,эвакуатор номер,эвакуатор номер in Moscow,local,medium,draft
+261,evakuator xizmati narxlari,what is evakuator xizmati narxlari,core_answer,high,draft
+262,evakuator xizmati narxlari,evakuator xizmati narxlari comparison,comparison,high,draft
+263,evakuator xizmati narxlari,evakuator xizmati narxlari cost,cost,medium,draft
+264,evakuator xizmati narxlari,evakuator xizmati narxlari risks,risks,medium,draft
+265,evakuator xizmati narxlari,evakuator xizmati narxlari alternatives,alternatives,medium,draft
+266,evakuator xizmati narxlari,evakuator xizmati narxlari requirements,requirements,medium,draft
+267,evakuator xizmati narxlari,how to choose evakuator xizmati narxlari,process,high,draft
+268,evakuator xizmati narxlari,evakuator xizmati narxlari mistakes,mistakes,medium,draft
+269,evakuator xizmati narxlari,evakuator xizmati narxlari questions,faq,medium,draft
+270,evakuator xizmati narxlari,evakuator xizmati narxlari in Moscow,local,medium,draft
+271,эвакуатор уз,what is эвакуатор уз,core_answer,high,draft
+272,эвакуатор уз,эвакуатор уз comparison,comparison,high,draft
+273,эвакуатор уз,эвакуатор уз cost,cost,medium,draft
+274,эвакуатор уз,эвакуатор уз risks,risks,medium,draft
+275,эвакуатор уз,эвакуатор уз alternatives,alternatives,medium,draft
+276,эвакуатор уз,эвакуатор уз requirements,requirements,medium,draft
+277,эвакуатор уз,how to choose эвакуатор уз,process,high,draft
+278,эвакуатор уз,эвакуатор уз mistakes,mistakes,medium,draft
+279,эвакуатор уз,эвакуатор уз questions,faq,medium,draft
+280,эвакуатор уз,эвакуатор уз in Moscow,local,medium,draft
+281,эвакуатор сергели,what is эвакуатор сергели,core_answer,high,draft
+282,эвакуатор сергели,эвакуатор сергели comparison,comparison,high,draft
+283,эвакуатор сергели,эвакуатор сергели cost,cost,medium,draft
+284,эвакуатор сергели,эвакуатор сергели risks,risks,medium,draft
+285,эвакуатор сергели,эвакуатор сергели alternatives,alternatives,medium,draft
+286,эвакуатор сергели,эвакуатор сергели requirements,requirements,medium,draft
+287,эвакуатор сергели,how to choose эвакуатор сергели,process,high,draft
+288,эвакуатор сергели,эвакуатор сергели mistakes,mistakes,medium,draft
+289,эвакуатор сергели,эвакуатор сергели questions,faq,medium,draft
+290,эвакуатор сергели,эвакуатор сергели in Moscow,local,medium,draft
+291,заказать автоэвакуатор,what is заказать автоэвакуатор,core_answer,high,draft
+292,заказать автоэвакуатор,заказать автоэвакуатор comparison,comparison,high,draft
+293,заказать автоэвакуатор,заказать автоэвакуатор cost,cost,medium,draft
+294,заказать автоэвакуатор,заказать автоэвакуатор risks,risks,medium,draft
+295,заказать автоэвакуатор,заказать автоэвакуатор alternatives,alternatives,medium,draft
+296,заказать автоэвакуатор,заказать автоэвакуатор requirements,requirements,medium,draft
+297,заказать автоэвакуатор,how to choose заказать автоэвакуатор,process,high,draft
+298,заказать автоэвакуатор,заказать автоэвакуатор mistakes,mistakes,medium,draft
+299,заказать автоэвакуатор,заказать автоэвакуатор questions,faq,medium,draft
+300,заказать автоэвакуатор,заказать автоэвакуатор in Moscow,local,medium,draft
+301,эвакуатор хизмати,what is эвакуатор хизмати,core_answer,high,draft
+302,эвакуатор хизмати,эвакуатор хизмати comparison,comparison,high,draft
+303,эвакуатор хизмати,эвакуатор хизмати cost,cost,medium,draft
+304,эвакуатор хизмати,эвакуатор хизмати risks,risks,medium,draft
+305,эвакуатор хизмати,эвакуатор хизмати alternatives,alternatives,medium,draft
+306,эвакуатор хизмати,эвакуатор хизмати requirements,requirements,medium,draft
+307,эвакуатор хизмати,how to choose эвакуатор хизмати,process,high,draft
+308,эвакуатор хизмати,эвакуатор хизмати mistakes,mistakes,medium,draft
+309,эвакуатор хизмати,эвакуатор хизмати questions,faq,medium,draft
+310,эвакуатор хизмати,эвакуатор хизмати in Moscow,local,medium,draft
+311,эвакуатор юнусабад,what is эвакуатор юнусабад,core_answer,high,draft
+312,эвакуатор юнусабад,эвакуатор юнусабад comparison,comparison,high,draft
+313,эвакуатор юнусабад,эвакуатор юнусабад cost,cost,medium,draft
+314,эвакуатор юнусабад,эвакуатор юнусабад risks,risks,medium,draft
+315,эвакуатор юнусабад,эвакуатор юнусабад alternatives,alternatives,medium,draft
+316,эвакуатор юнусабад,эвакуатор юнусабад requirements,requirements,medium,draft
+317,эвакуатор юнусабад,how to choose эвакуатор юнусабад,process,high,draft
+318,эвакуатор юнусабад,эвакуатор юнусабад mistakes,mistakes,medium,draft
+319,эвакуатор юнусабад,эвакуатор юнусабад questions,faq,medium,draft
+320,эвакуатор юнусабад,эвакуатор юнусабад in Moscow,local,medium,draft
+321,эвакуатор цена,what is эвакуатор цена,core_answer,high,draft
+322,эвакуатор цена,эвакуатор цена comparison,comparison,high,draft
+323,эвакуатор цена,эвакуатор цена cost,cost,medium,draft
+324,эвакуатор цена,эвакуатор цена risks,risks,medium,draft
+325,эвакуатор цена,эвакуатор цена alternatives,alternatives,medium,draft
+326,эвакуатор цена,эвакуатор цена requirements,requirements,medium,draft
+327,эвакуатор цена,how to choose эвакуатор цена,process,high,draft
+328,эвакуатор цена,эвакуатор цена mistakes,mistakes,medium,draft
+329,эвакуатор цена,эвакуатор цена questions,faq,medium,draft
+330,эвакуатор цена,эвакуатор цена in Moscow,local,medium,draft
+331,эвакуатор легковых автомобилей,what is эвакуатор легковых автомобилей,core_answer,high,draft
+332,эвакуатор легковых автомобилей,эвакуатор легковых автомобилей comparison,comparison,high,draft
+333,эвакуатор легковых автомобилей,эвакуатор легковых автомобилей cost,cost,medium,draft
+334,эвакуатор легковых автомобилей,эвакуатор легковых автомобилей risks,risks,medium,draft
+335,эвакуатор легковых автомобилей,эвакуатор легковых автомобилей alternatives,alternatives,medium,draft
+336,эвакуатор легковых автомобилей,эвакуатор легковых автомобилей requirements,requirements,medium,draft
+337,эвакуатор легковых автомобилей,how to choose эвакуатор легковых автомобилей,process,high,draft
+338,эвакуатор легковых автомобилей,эвакуатор легковых автомобилей mistakes,mistakes,medium,draft
+339,эвакуатор легковых автомобилей,эвакуатор легковых автомобилей questions,faq,medium,draft
+340,эвакуатор легковых автомобилей,эвакуатор легковых автомобилей in Moscow,local,medium,draft
+341,эвакуатор стоимость,what is эвакуатор стоимость,core_answer,high,draft
+342,эвакуатор стоимость,эвакуатор стоимость comparison,comparison,high,draft
+343,эвакуатор стоимость,эвакуатор стоимость cost,cost,medium,draft
+344,эвакуатор стоимость,эвакуатор стоимость risks,risks,medium,draft
+345,эвакуатор стоимость,эвакуатор стоимость alternatives,alternatives,medium,draft
+346,эвакуатор стоимость,эвакуатор стоимость requirements,requirements,medium,draft
+347,эвакуатор стоимость,how to choose эвакуатор стоимость,process,high,draft
+348,эвакуатор стоимость,эвакуатор стоимость mistakes,mistakes,medium,draft
+349,эвакуатор стоимость,эвакуатор стоимость questions,faq,medium,draft
+350,эвакуатор стоимость,эвакуатор стоимость in Moscow,local,medium,draft
+351,номер телефона эвакуатора,what is номер телефона эвакуатора,core_answer,high,draft
+352,номер телефона эвакуатора,номер телефона эвакуатора comparison,comparison,high,draft
+353,номер телефона эвакуатора,номер телефона эвакуатора cost,cost,medium,draft
+354,номер телефона эвакуатора,номер телефона эвакуатора risks,risks,medium,draft
+355,номер телефона эвакуатора,номер телефона эвакуатора alternatives,alternatives,medium,draft
+356,номер телефона эвакуатора,номер телефона эвакуатора requirements,requirements,medium,draft
+357,номер телефона эвакуатора,how to choose номер телефона эвакуатора,process,high,draft
+358,номер телефона эвакуатора,номер телефона эвакуатора mistakes,mistakes,medium,draft
+359,номер телефона эвакуатора,номер телефона эвакуатора questions,faq,medium,draft
+360,номер телефона эвакуатора,номер телефона эвакуатора in Moscow,local,medium,draft
+361,эвакуатор срочно,what is эвакуатор срочно,core_answer,high,draft
+362,эвакуатор срочно,эвакуатор срочно comparison,comparison,high,draft
+363,эвакуатор срочно,эвакуатор срочно cost,cost,medium,draft
+364,эвакуатор срочно,эвакуатор срочно risks,risks,medium,draft
+365,эвакуатор срочно,эвакуатор срочно alternatives,alternatives,medium,draft
+366,эвакуатор срочно,эвакуатор срочно requirements,requirements,medium,draft
+367,эвакуатор срочно,how to choose эвакуатор срочно,process,high,draft
+368,эвакуатор срочно,эвакуатор срочно mistakes,mistakes,medium,draft
+369,эвакуатор срочно,эвакуатор срочно questions,faq,medium,draft
+370,эвакуатор срочно,эвакуатор срочно in Moscow,local,medium,draft
+371,заказать эвакуатор,what is заказать эвакуатор,core_answer,high,draft
+372,заказать эвакуатор,заказать эвакуатор comparison,comparison,high,draft
+373,заказать эвакуатор,заказать эвакуатор cost,cost,medium,draft
+374,заказать эвакуатор,заказать эвакуатор risks,risks,medium,draft
+375,заказать эвакуатор,заказать эвакуатор alternatives,alternatives,medium,draft
+376,заказать эвакуатор,заказать эвакуатор requirements,requirements,medium,draft
+377,заказать эвакуатор,how to choose заказать эвакуатор,process,high,draft
+378,заказать эвакуатор,заказать эвакуатор mistakes,mistakes,medium,draft
+379,заказать эвакуатор,заказать эвакуатор questions,faq,medium,draft
+380,заказать эвакуатор,заказать эвакуатор in Moscow,local,medium,draft
