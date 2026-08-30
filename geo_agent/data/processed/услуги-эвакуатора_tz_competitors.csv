@@ -1,0 +1,3 @@
+﻿competitor_id,url,domain,title,ai_citation_count,topic_overlap,selection_source,source_prompts,source_files
+cmp_001,https://166.uz,166.uz,166.uz,1,2,ai_citation_history,услуги эвакуатора,/home/user/Evakuator-/geo_agent/data/processed/услуги-эвакуатора_ai_answers.csv
+cmp_002,https://olx.uz,olx.uz,OLX Uzbekistan,1,2,ai_citation_history,услуги эвакуатора,/home/user/Evakuator-/geo_agent/data/processed/услуги-эвакуатора_ai_answers.csv

@@ -1,0 +1,3 @@
+﻿competitor_id,url,domain,fetch_status,fetch_method,quality_status,word_count,heading_count,commercial_signals,source_ref,fetch_error,next_action
+cmp_001,https://166.uz,166.uz,blocked,http,blocked,0,0,,,network approval missing,collect_with_browser_or_provide_snapshot
+cmp_002,https://olx.uz,olx.uz,blocked,http,blocked,0,0,,,network approval missing,collect_with_browser_or_provide_snapshot

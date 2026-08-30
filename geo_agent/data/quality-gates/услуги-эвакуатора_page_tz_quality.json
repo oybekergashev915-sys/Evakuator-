@@ -1,0 +1,17 @@
+{
+  "topic": "Услуги эвакуатора",
+  "topic_slug": "услуги-эвакуатора",
+  "status": "quality_fail",
+  "competitors": 2,
+  "qfo_or_cluster_queries": 11,
+  "parsed_pass_or_warn": 0,
+  "blocked": 2,
+  "ngrams": 0,
+  "ngram_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0
+  },
+  "chunks": 5,
+  "generated_at": "2026-08-30T17:17:39+00:00"
+}

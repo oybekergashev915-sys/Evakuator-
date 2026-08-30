@@ -1,0 +1,182 @@
+{
+  "schema_version": "geo-topic-agent.page-tz.v2",
+  "audience": "copywriter_or_copywriter_agent_without_chat_context",
+  "topic": "Услуги эвакуатора",
+  "generated_at": "2026-08-30T17:17:39+00:00",
+  "target_page": {
+    "h1": "Услуги эвакуатора",
+    "recommended_title": "Услуги эвакуатора: guide, comparison, and decision criteria",
+    "url_slug": "/услуги-эвакуатора/",
+    "goal": "Write a self-contained page that answers the confirmed cluster, is easy for users to read, and is easy for AI systems to extract and cite."
+  },
+  "qfo_queries": [
+    "эвакуатор ташкент цена",
+    "эвакуатор цена",
+    "эвакуатор стоимость",
+    "эвакуатор ташкент дешево",
+    "услуги эвакуатора",
+    "заказать эвакуатор",
+    "заказать автоэвакуатор",
+    "вызвать эвакуатор",
+    "номер телефона эвакуатора",
+    "телефон эвакуатора",
+    "номер эвакуатора"
+  ],
+  "competitors": [
+    {
+      "competitor_id": "cmp_001",
+      "url": "https://166.uz",
+      "domain": "166.uz",
+      "title": "166.uz",
+      "ai_citation_count": 1,
+      "topic_overlap": 2,
+      "selection_source": "ai_citation_history",
+      "source_prompts": "услуги эвакуатора",
+      "source_files": "/home/user/Evakuator-/geo_agent/data/processed/услуги-эвакуатора_ai_answers.csv"
+    },
+    {
+      "competitor_id": "cmp_002",
+      "url": "https://olx.uz",
+      "domain": "olx.uz",
+      "title": "OLX Uzbekistan",
+      "ai_citation_count": 1,
+      "topic_overlap": 2,
+      "selection_source": "ai_citation_history",
+      "source_prompts": "услуги эвакуатора",
+      "source_files": "/home/user/Evakuator-/geo_agent/data/processed/услуги-эвакуатора_ai_answers.csv"
+    }
+  ],
+  "content_quality": [
+    {
+      "competitor_id": "cmp_001",
+      "url": "https://166.uz",
+      "domain": "166.uz",
+      "fetch_status": "blocked",
+      "fetch_method": "http",
+      "quality_status": "blocked",
+      "word_count": 0,
+      "heading_count": 0,
+      "commercial_signals": "",
+      "source_ref": "",
+      "fetch_error": "network approval missing",
+      "next_action": "collect_with_browser_or_provide_snapshot"
+    },
+    {
+      "competitor_id": "cmp_002",
+      "url": "https://olx.uz",
+      "domain": "olx.uz",
+      "fetch_status": "blocked",
+      "fetch_method": "http",
+      "quality_status": "blocked",
+      "word_count": 0,
+      "heading_count": 0,
+      "commercial_signals": "",
+      "source_ref": "",
+      "fetch_error": "network approval missing",
+      "next_action": "collect_with_browser_or_provide_snapshot"
+    }
+  ],
+  "ngram_terms": [],
+  "ngram_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 0
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_001",
+      "chunk_type": "direct_answer_chunk",
+      "target_intent": "answer",
+      "purpose": "Write a concise answer that can be extracted and cited by AI systems.",
+      "qfo_queries": "эвакуатор ташкент дешево | услуги эвакуатора | заказать эвакуатор | заказать автоэвакуатор | вызвать эвакуатор | номер телефона эвакуатора | телефон эвакуатора | номер эвакуатора",
+      "required_terms": "",
+      "competitor_evidence": "",
+      "writing_instruction": "Write this answer section for 'Услуги эвакуатора' in clear, factual language. Use short paragraphs, explicit entities, decision criteria, and extractable statements. Avoid fluff, copied competitor wording, and unsupported promises."
+    },
+    {
+      "chunk_id": "chunk_002",
+      "chunk_type": "selection_criteria_chunk",
+      "target_intent": "criteria",
+      "purpose": "Explain decision criteria and tradeoffs.",
+      "qfo_queries": "эвакуатор ташкент дешево | услуги эвакуатора | заказать эвакуатор | заказать автоэвакуатор | вызвать эвакуатор | номер телефона эвакуатора | телефон эвакуатора | номер эвакуатора",
+      "required_terms": "",
+      "competitor_evidence": "",
+      "writing_instruction": "Write this criteria section for 'Услуги эвакуатора' in clear, factual language. Use short paragraphs, explicit entities, decision criteria, and extractable statements. Avoid fluff, copied competitor wording, and unsupported promises."
+    },
+    {
+      "chunk_id": "chunk_003",
+      "chunk_type": "comparison_chunk",
+      "target_intent": "comparison",
+      "purpose": "Compare options or approaches without copying competitors.",
+      "qfo_queries": "эвакуатор ташкент дешево | услуги эвакуатора | заказать эвакуатор | заказать автоэвакуатор | вызвать эвакуатор | номер телефона эвакуатора | телефон эвакуатора | номер эвакуатора",
+      "required_terms": "",
+      "competitor_evidence": "",
+      "writing_instruction": "Write this comparison section for 'Услуги эвакуатора' in clear, factual language. Use short paragraphs, explicit entities, decision criteria, and extractable statements. Avoid fluff, copied competitor wording, and unsupported promises."
+    },
+    {
+      "chunk_id": "chunk_004",
+      "chunk_type": "commercial_chunk",
+      "target_intent": "cost",
+      "purpose": "Explain price, cost, packages, or ROI signals when relevant to the confirmed cluster.",
+      "qfo_queries": "эвакуатор ташкент цена | эвакуатор цена | эвакуатор стоимость",
+      "required_terms": "",
+      "competitor_evidence": "",
+      "writing_instruction": "Write this cost section for 'Услуги эвакуатора' in clear, factual language. Use short paragraphs, explicit entities, decision criteria, and extractable statements. Avoid fluff, copied competitor wording, and unsupported promises."
+    },
+    {
+      "chunk_id": "chunk_005",
+      "chunk_type": "faq_chunk",
+      "target_intent": "faq",
+      "purpose": "Answer recurring follow-up questions in compact Q/A form.",
+      "qfo_queries": "эвакуатор ташкент дешево | услуги эвакуатора | заказать эвакуатор | заказать автоэвакуатор | вызвать эвакуатор | номер телефона эвакуатора | телефон эвакуатора | номер эвакуатора",
+      "required_terms": "",
+      "competitor_evidence": "",
+      "writing_instruction": "Write this faq section for 'Услуги эвакуатора' in clear, factual language. Use short paragraphs, explicit entities, decision criteria, and extractable statements. Avoid fluff, copied competitor wording, and unsupported promises."
+    }
+  ],
+  "structure": [
+    {
+      "level": "H1",
+      "title": "Услуги эвакуатора",
+      "purpose": "Match the core topic and page promise.",
+      "terms": ""
+    },
+    {
+      "level": "H2",
+      "title": "Short answer",
+      "purpose": "Direct citeable answer chunk.",
+      "chunk_id": "chunk_001"
+    },
+    {
+      "level": "H2",
+      "title": "How to choose",
+      "purpose": "Decision criteria and user fit.",
+      "chunk_id": "chunk_002"
+    },
+    {
+      "level": "H2",
+      "title": "Comparison and alternatives",
+      "purpose": "Show differences and tradeoffs.",
+      "chunk_id": "chunk_003"
+    },
+    {
+      "level": "H2",
+      "title": "Cost and implementation notes",
+      "purpose": "Commercial clarity when relevant to the cluster.",
+      "chunk_id": "chunk_004"
+    },
+    {
+      "level": "H2",
+      "title": "FAQ",
+      "purpose": "Cover follow-up QFO title semantics and confirmed cluster questions.",
+      "chunk_id": "chunk_005"
+    }
+  ],
+  "copywriter_quality_requirements": [
+    "Use this brief as a complete standalone task; do not rely on any previous chat context.",
+    "Use competitor evidence for coverage and structure only; do not copy competitor wording.",
+    "Use n-gram density targets as natural coverage guidance, not as keyword stuffing.",
+    "Keep price, service, comparison, criteria, examples, risks, and FAQ facts explicit and easy to extract.",
+    "Do not include internal tool notes, parser statuses, raw references, or editor QA comments in the final article."
+  ]
+}
