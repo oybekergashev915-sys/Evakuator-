@@ -1,13 +1,13 @@
 # PROJECT_CONTEXT
 
-Generated: 2026-08-30T16:38:30+00:00
+Generated: 2026-08-30T16:47:58+00:00
 
 ## Project
 
 - Domain: evakuator.uz
 - Brand: not provided
-- Brand variants status: needs_user_confirmation
-- Brand variants confirmation required: True
+- Brand variants status: confirmed
+- Brand variants confirmation required: False
 - Topic: not provided
 - Goal: both
 - Language: 
@@ -18,8 +18,8 @@ Generated: 2026-08-30T16:38:30+00:00
 
 The agent must ask the user to confirm or edit all brand spellings before citation visibility and monitoring. Suggested variants are only a draft until confirmed.
 
-- evakuator.uz
-- evakuator
+- EVAKUATOR.UZ
+- OOO MADAT LOGISTICS
 ## Semantic Cluster Queries
 
 - Status: missing
@@ -52,50 +52,70 @@ This report is product and business context. It does not perform robots.txt chec
 
 ## Site Context Brief
 
-- status: blocked_homepage_fetch_failed
-- summary: URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
+- status: success
+- summary: Local HTML site context collected. No accessibility audit was run.
 - accessibility audit run: False
 
 ### Brand Surface
-- none
+- EVAKUATOR.UZ — Служба эвакуации автотранспорта и спецтехники в Ташкенте и по всему Узбекистану
+- Сотрудничество с Автосалонами, Страховыми и СТО
+- Срочный эвакуатор в Ташкенте и РУз за разумные деньги
 
 ### Value Proposition / UTP Evidence
-- none
+- commercial_payment: EVAKUATOR.UZ Сотрудничество с Автосалонами, Страховыми и СТО Предлагаем выгодные условия для юрлиц: официальный безналичный расчет (перечисление), полная закрывающая документация, личный менеджер 24/7 и приоритетный выезд спецтехники.
+- commercial_payment: Безналичный расчет Оплата по перечислению, акты сверки.
+- homepage: Для тех, кому важна безопасность авто.
+- homepage: Оплата: Наличные / Безнал / Перечисление.
+- homepage: GPS-контроль эвакуации 24/7 Диспетчерский центр контролирует точный маршрут и безопасную транспортировку вашего автомобиля в режиме реального времени.
+- homepage: Спецавтопарк — безопасная эвакуация для любых задач EXPERT EV — Эвакуация Электромобилей Бережная погрузка BYD, Tesla, Zeekr, Hongqi со спецскейтами под заблокированные колеса.
 
 ### Product / Service Mechanics Evidence
-- none
+- homepage: Доставка и удобная оплата — Быстрый рейс до сервиса или дома.
+- homepage: Ребята настоящие профессионалы своего дела.» Сардор М., Chevrolet Malibu 2, Мирабад: «Отличный сервис.
+- homepage: Диспетчер сразу назвал понятную цену, эвакуатор приехал без задержек и аккуратно доставил машину прямо до сервиса.» Елена В., Mercedes-Benz Gle, Юнусабад: «Нужен был манипулятор из-за сломанной рычажной системы.
+- homepage: Погрузили аккуратно, довезли прямо в автосервис.
 
 ### Pricing / Payment Evidence
-- none
+- commercial_payment: EVAKUATOR.UZ Сотрудничество с Автосалонами, Страховыми и СТО Предлагаем выгодные условия для юрлиц: официальный безналичный расчет (перечисление), полная закрывающая документация, личный менеджер 24/7 и приоритетный выезд спецтехники.
+- commercial_payment: Безналичный расчет Оплата по перечислению, акты сверки.
+- homepage: В стоимость включено: 100% Страховка и материальная ответственность; Подача эвакуатора за 10-15 минут 24/7; Погрузка, фиксация и транспортировка.
+- homepage: Итоговая стоимость (пример на 5 км): 250 000 сум.
+- homepage: Цена полностью соответствует качеству!» Сотрудничество с Автосалонами, Страховыми и СТО (корпоративным клиентам) Предлагаем выгодные условия для юрлиц: официальный безналичный расчет (перечисление), полная закрывающая документация, личный м...
+- homepage: EVAKUATOR.UZ Калькулятор цен Виды техники Карта дежурств Отзывы Партнерам FAQ +998 94 666 66 63 Срочный вызов 14 эвакуаторов сейчас на дежурстве во всех районах Ташкента.
 
 ### Trial / Delivery Evidence
-- none
+- homepage: Доставка и удобная оплата — Быстрый рейс до сервиса или дома.
 
 ### Limitations / Terms Evidence
-- none
+- commercial_payment: EVAKUATOR.UZ Сотрудничество с Автосалонами, Страховыми и СТО Предлагаем выгодные условия для юрлиц: официальный безналичный расчет (перечисление), полная закрывающая документация, личный менеджер 24/7 и приоритетный выезд спецтехники.
+- homepage: Цена полностью соответствует качеству!» Сотрудничество с Автосалонами, Страховыми и СТО (корпоративным клиентам) Предлагаем выгодные условия для юрлиц: официальный безналичный расчет (перечисление), полная закрывающая документация, личный м...
 
 ### Trust / Proof Evidence
-- none
+- homepage: EVAKUATOR.UZ Калькулятор цен Виды техники Карта дежурств Отзывы Партнерам FAQ +998 94 666 66 63 Срочный вызов 14 эвакуаторов сейчас на дежурстве во всех районах Ташкента.
+- homepage: Нам доверяют автовладельцы Узбекистана (отзывы) Тимур К., BYD Song Plus, Чиланзар: «Сел аккумулятор 12V на BYD, колеса заблокировались.
+- homepage: Часто задаваемые вопросы (FAQ) При разряде 12V аккумулятора или блокировке трансмиссии мы используем специальные гидравлические скейты (подкатные тележки) под каждое колесо.
+- homepage: Правила эвакуации авто с АКПП / Вариатором Автомобили с автоматической трансмиссией (АКПП, вариатор CVT, робот DSG) требуют полной погрузки на платформу эвакуатора.
 
 ### Conversion Actions
-- none
+- Оставить заявку
 
 ## Context Pages Reviewed
 
-- none
+| Page type | Source | URL | H1/title |
+|---|---|---|---|
+| commercial_payment | local_snapshot | https://evakuator.uz/b2b | Сотрудничество с Автосалонами, Страховыми и СТО |
+| homepage | local_homepage | https://evakuator.uz | Срочный эвакуатор в Ташкенте и РУз за разумные деньги |
 
 ## Open Context Questions
 
-- What are the exact product/service names and packages?
-- What is the primary conversion action?
-- Which pages should be treated as money pages?
+- No major product-context questions detected from collected pages.
 
 ## Context Acquisition
 
 - site discovery approved: True
-- notes: none
+- notes: Сайт — одностраничный лендинг (SPA/one-page), подтверждено пользователем. b2b.html — тот же раздел /#b2b, выделенный как отдельная единица контента для ревью (не отдельный физический URL).
 - accessibility audit separate: True
-- deep context collection status: blocked
+- deep context collection status: success
 - deep context offer required: False
 - recommended deep context max pages: 30
 - recommended deep context command: python .geo-topic-agent-runtime/geo_agent_cli.py collect-context --domain "evakuator.uz" --allow-site-discovery --network-approved --max-pages 30
@@ -103,7 +123,4 @@ This report is product and business context. It does not perform robots.txt chec
 ## Assumptions
 
 - Brand was not provided.
-- Brand variants are not confirmed. Ask the user to confirm or edit all brand spellings, aliases, transliterations, domain spellings, and product-name aliases before citation visibility or monitoring work.
 - Topic was not provided.
-- URLError: <urlopen error Tunnel connection failed: 403 Forbidden>
-- Deep context remains lower-assurance until the user confirms all proposed brand variants.

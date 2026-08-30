@@ -9,11 +9,11 @@
     "domain": "evakuator.uz",
     "brand": "",
     "brand_variants": [
-      "evakuator.uz",
-      "evakuator"
+      "EVAKUATOR.UZ",
+      "OOO MADAT LOGISTICS"
     ],
-    "brand_variants_status": "needs_user_confirmation",
-    "brand_variants_source": "agent_proposed",
+    "brand_variants_status": "confirmed",
+    "brand_variants_source": "explicit_user_confirmation",
     "target_goal": "both",
     "priority_topics": [],
     "semantic_cluster_queries": [],
@@ -21,10 +21,17 @@
     "site_pages": [],
     "products_services": [],
     "documents": [],
-    "context_notes": "",
+    "context_notes": "Сайт — одностраничный лендинг (SPA/one-page), подтверждено пользователем. b2b.html — тот же раздел /#b2b, выделенный как отдельная единица контента для ревью (не отдельный физический URL).",
     "site_discovery_approved": true,
     "context_not_applicable_decisions": [],
-    "audit_decisions": {}
+    "audit_decisions": {},
+    "brand_variants_confirmed_at": "2026-08-30T16:47:05+00:00",
+    "brand_variants_confirmation": {
+      "variants_sha256": "8b12c78b3081f0df720c5fbfd15a51b3d5f2832450efee170dc0eeec0b35456d",
+      "confirmation_ref": "chat-2026-08-30-brand-confirmation",
+      "confirmed_by": "project owner (chat)",
+      "confirmed_at": "2026-08-30T16:47:05+00:00"
+    }
   },
   "region": {
     "country": "",
