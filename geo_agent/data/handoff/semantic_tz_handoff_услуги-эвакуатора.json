@@ -1,6 +1,6 @@
 {
   "schema_version": "geo-topic-agent.semantic-tz-handoff.v1",
-  "generated_at": "2026-08-30T17:09:42+00:00",
+  "generated_at": "2026-08-30T17:13:48+00:00",
   "topic": "Услуги эвакуатора",
   "topic_slug": "услуги-эвакуатора",
   "semantic_cluster_queries": [
@@ -114,7 +114,7 @@
     "semantic_cluster_topic": "Услуги эвакуатора",
     "semantic_cluster_status": "confirmed",
     "semantic_cluster_source": "user_supplied",
-    "semantic_cluster_confirmed_at": "2026-08-30T17:09:42+00:00"
+    "semantic_cluster_confirmed_at": "2026-08-30T17:13:48+00:00"
   },
   "region": {
     "country": "",
@@ -3781,6 +3781,256 @@
       "snippet": "Цены по типу транспорта: Мотоцикл — от 100 000 сумов; Легковой автомобиль — от 150 000 сумов; Внедорожник/кроссовер — от 200 000 сумов; Грузовик до 5т — от 400 000 сумов.",
       "source_type": "ai_overview_citation",
       "cited_in_ai": true
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "google",
+      "position": 1,
+      "url": "https://www.olx.uz",
+      "title": "evakuator - Xizmatlar ...da Toshkent",
+      "snippet": "Xizmat ko'rsatish Toshkent - evakuator; Kran Manipulyator xizmati | Услуги Кран манипулятора 24/7; Evakuator xizmati 149 900 toshkent || Услуга эвакуатора 24/7.",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "google",
+      "position": 2,
+      "url": "https://auto.ustabor.uz",
+      "title": "Toshkent bo'ylab evakuator xizmati narxi",
+      "snippet": "Toshkent bo'ylab evakuator xizmati narxi. Haydovchi YTH qoidalarini buzganda, nosozlik yoki avtohalokat yuz berganda evakuator chaqiriladi. 155 000,00 UZS",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "google",
+      "position": 3,
+      "url": "https://perevozka24.uz",
+      "title": "Evakuator xizmati 24/7 Ташкент телефон",
+      "snippet": "№483113 Evakuator xizmati 24/7 · Адрес стоянки эвакуатора: Ташкент · Отзывы от клиентов. У исполнителя пока нет отзывов, но вы можете первым оставить свой ...",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "google",
+      "position": 4,
+      "url": "https://166.uz",
+      "title": "Evakuator xizmati Toshkent — 150 000 so'mdan | 1331",
+      "snippet": "Toshkentda evakuator xizmatlari 150 000 so'mdan boshlanadi. SUV — 200 000 so'mdan, 5 tonnagacha yuk mashinasi — 400 000 so'mdan, mototsikl — 100 000 so'mdan.",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "google",
+      "position": 5,
+      "url": "https://avtoelon.uz",
+      "title": "O'zbekistonda Evakuator - avtomobil xizmatlari",
+      "snippet": "Evakuator xizmati. Evakuator xizmati shahar Toshkent id7495469. Evakuator, Evakuator xizmati.",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "yandex",
+      "position": 1,
+      "url": "https://olx.uz",
+      "title": "эвакуатор хизмати - Услуги эвакуатора в Ташкент - OLX.uz",
+      "snippet": "эвакуатор хизмати в Ташкент Перевозка авто и услуги эвакуатора. Большой выбор компаний доступные цены. Нанять эвакуатор и автовоз можно на OLX.uz!",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "yandex",
+      "position": 2,
+      "url": "https://avtoelon.uz",
+      "title": "O'zbekistonda Evakuator - avtomobil xizmatlari - Avtoelon.uz",
+      "snippet": "Evakuator O'zbekistonin po luchshim tsenam. Avtomoyki himchistka gruzoperevozki evakuator zamena masle i mnogoe drugoe na sayte obyavleniy - Avtoelon.uz.",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "yandex",
+      "position": 3,
+      "url": "https://birbir.uz",
+      "title": "Вызвать эвакуатор Ташкент — услуги эвакуатора",
+      "snippet": "Evakuator xizmati Toshkent / Услуга Эвакуатора в Ташкенте.",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "yandex",
+      "position": 4,
+      "url": "https://yandex.uz",
+      "title": "Вызвать эвакуатор Toshkentda menga yaqin xaritada: narxlar...",
+      "snippet": "Вызвать эвакуатор Toshkentda: joylarni narxlar reyting sharhlar foto bo'yicha tanlash...",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "yandex",
+      "position": 5,
+      "url": "https://evakuator-tashkent.uz",
+      "title": "Evakuator Xizmati 24/7 | 50.000 so'mdan",
+      "snippet": "Nega aynan bizning evakuator xizmatimizni tanlashingiz kerak?",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "yandex",
+      "position": 0,
+      "url": "https://evakuator.uz",
+      "title": "Evakuator.uz — Yandex Business Card (наш бизнес)",
+      "snippet": "Рейтинг 4.2 (3 отзыва). ул. Шахриабад 9 Мирзо-Улугбекский район Ташкент. Телефон +998 94 66X XX XX. Telegram oybek_mahmudovich. Отзывы: Рома Ж.Д. 5★, Ойбек Исаев 5★, Fazliddinov Firdavs 1★ 'Не везде есть филиалы и дорого'.",
+      "source_type": "business_profile",
+      "cited_in_ai": false
+    },
+    {
+      "query": "заказать эвакуатор",
+      "engine": "google",
+      "position": 1,
+      "url": "https://perevozka24.uz",
+      "title": "Вызвать эвакуатор рядом с Вами — Ташкент | Цены на услуги ...",
+      "snippet": "эвакуаторов в Ташкенте. Mercedes Benz | 100 сум/км. Эвакуатор Ташкент | 50000...",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "заказать эвакуатор",
+      "engine": "google",
+      "position": 0,
+      "url": "https://166.uz",
+      "title": "Обзор от ИИ (Google AI Overview) — источник цитирования, содержит упоминание бренда EVAKUATOR.UZ",
+      "snippet": "Вызвать эвакуатор в Ташкенте можно по единому короткому номеру 1331 (бесплатно со всех мобильных операторов Узбекистана) или круглосуточно через службу EVAKUATOR.UZ.",
+      "source_type": "ai_overview_citation",
+      "cited_in_ai": true
+    },
+    {
+      "query": "заказать эвакуатор",
+      "engine": "google",
+      "position": 0,
+      "url": "https://olx.uz",
+      "title": "Обзор от ИИ (Google AI Overview) — частные предложения",
+      "snippet": "Частные предложения: большой выбор водителей и объявлений доступен на OLX.uz.",
+      "source_type": "ai_overview_citation",
+      "cited_in_ai": true
+    },
+    {
+      "query": "заказать эвакуатор",
+      "engine": "google",
+      "position": 0,
+      "url": "https://perevozka24.uz",
+      "title": "Обзор от ИИ (Google AI Overview) — стоимость услуг +2",
+      "snippet": "Стоимость услуг в Ташкенте: Легковой автомобиль — от 150 000-250 000 сум за городскую эвакуацию (в среднем до 400 000 сум). Спецтехника и грузовики — от 700 000 сум.",
+      "source_type": "ai_overview_citation",
+      "cited_in_ai": true
+    },
+    {
+      "query": "заказать эвакуатор",
+      "engine": "yandex",
+      "position": 1,
+      "url": "https://olx.uz",
+      "title": "эвакуатор - Xizmatlar - OLX.uz",
+      "snippet": "ЭВАКУАТОР рядом, срочно, в любую точку | EVAKUATOR xizmati 15 minutda.",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "заказать эвакуатор",
+      "engine": "yandex",
+      "position": 2,
+      "url": "https://litro.uz",
+      "title": "Эвакуатор - LITRO",
+      "snippet": "Заказать сервис. Помощь на дороге. Эвакуатор круглосуточно. Мы предлагаем вам сервис эвакуатора 24 часа в сутки, каждый день недели, без выходных.",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "заказать эвакуатор",
+      "engine": "yandex",
+      "position": 3,
+      "url": "https://perevozka24.uz",
+      "title": "Услуги эвакуатора в Узбекистане — все владельцы спецтехники...",
+      "snippet": "Где можно заказать эвакуатор без диспетчера? Сайт «Перевозка 24» позволяет напрямую взаимодействовать собственникам спецтехники и заказчикам...",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "заказать эвакуатор",
+      "engine": "yandex",
+      "position": 4,
+      "url": "https://avtoelon.uz",
+      "title": "O'zbekistonda Evakuator - avtomobil xizmatlari - Avtoelon.uz",
+      "snippet": "Evakuator O'zbekistonin po luchshim tsenam.",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "заказать эвакуатор",
+      "engine": "yandex",
+      "position": 5,
+      "url": "https://auto.ustabor.uz",
+      "title": "Эвакуаторы Ташкент, недорогие Эвакуаторы на Ustabor.uz",
+      "snippet": "Услуги профессионального мастера Эвакуаторы Ташкент. Срочно, быстро и недорого выполним задачу любой сложности с гарантией и контролем качества. 3.4 (19 отзывов на агрегаторе)",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "заказать эвакуатор",
+      "engine": "yandex",
+      "position": 6,
+      "url": "https://evakuator-tashkent.uz",
+      "title": "Эвакуатор в Ташкенте 24/7 от 50.000 сум",
+      "snippet": "Эвакуатор в Ташкенте. от 50.000сум. Приедем через 20 минут.",
+      "source_type": "organic",
+      "cited_in_ai": false
+    },
+    {
+      "query": "эвакуатор рядом",
+      "engine": "google",
+      "position": 1,
+      "url": "https://evakuator.uz",
+      "title": "Эвакуатор в Ташкенте - EVAKUATOR.UZ (Google Business Profile, наш бизнес)",
+      "snippet": "Рейтинг 4.4 (14 отзывов). Услуги эвакуатора. Работает более 15 лет. Tashkent. Круглосуточно. 94 666 66 63. Отзыв клиента: 'Спасибо большое, привезли быстро и по разумной цене'.",
+      "source_type": "business_profile",
+      "cited_in_ai": false
+    },
+    {
+      "query": "эвакуатор рядом",
+      "engine": "google",
+      "position": 2,
+      "url": "",
+      "title": "Эвакуатор Ташкент | Evakuator xizmati - Google Business Profile (конкурент)",
+      "snippet": "Рейтинг 4.0 (11 отзывов). Транспортные услуги. Работает более 3 лет. Tashkent. Круглосуточно. 88 233 33 32.",
+      "source_type": "business_profile",
+      "cited_in_ai": false
+    },
+    {
+      "query": "эвакуатор рядом",
+      "engine": "google",
+      "position": 3,
+      "url": "",
+      "title": "Эвакуатор в Ташкенте - Google Business Profile (нерелевантно — перевозка лиц с огранич. возможностями)",
+      "snippet": "Рейтинг 5.0 (1 отзыв). Перевозка лиц с ограниченными возможностями. Работает более 3 лет. Круглосуточно. 98 301 00 09.",
+      "source_type": "business_profile",
+      "cited_in_ai": false
+    },
+    {
+      "query": "эвакуатор рядом",
+      "engine": "google",
+      "position": 1,
+      "url": "https://perevozka24.uz",
+      "title": "Вызвать эвакуатор рядом с Вами — Ташкент",
+      "snippet": "Эвакуаторы в Ташкенте круглосуточно (24 часа), срочно. Частные объявления по аренде эвакуатора. Цены за вызов. Номера телефонов. 5.0 (38 отзывов)",
+      "source_type": "organic",
+      "cited_in_ai": false
     }
   ],
   "ai_answer_rows": [
@@ -3828,6 +4078,51 @@
       "brand_mentioned": false,
       "project_url_cited": false,
       "date": "2026-08-30"
+    },
+    {
+      "answer_id": "ai_ovw_zakazat_evakuator_001",
+      "prompt": "заказать эвакуатор",
+      "provider": "google",
+      "model": "ai_overview",
+      "target_geo": "Tashkent, Uzbekistan",
+      "user_search_geo": "Tashkent, Uzbekistan",
+      "language": "ru",
+      "answer_text": "Вызвать эвакуатор в Ташкенте можно по единому короткому номеру 1331 (бесплатно со всех мобильных операторов Узбекистана) или круглосуточно через службу EVAKUATOR.UZ.",
+      "citation_url": "https://166.uz",
+      "citation_title": "166.uz",
+      "brand_mentioned": true,
+      "project_url_cited": false,
+      "date": "2026-08-30"
+    },
+    {
+      "answer_id": "ai_ovw_zakazat_evakuator_001",
+      "prompt": "заказать эвакуатор",
+      "provider": "google",
+      "model": "ai_overview",
+      "target_geo": "Tashkent, Uzbekistan",
+      "user_search_geo": "Tashkent, Uzbekistan",
+      "language": "ru",
+      "answer_text": "Популярные службы и контакты: Единая служба — короткий номер 1331 (24/7). Срочный вызов (SPETSTEX) — телефон +998 88 498 88 44, подача машины за 20-30 минут. Частные предложения — большой выбор водителей и объявлений доступен на OLX.uz.",
+      "citation_url": "https://olx.uz",
+      "citation_title": "OLX.uz",
+      "brand_mentioned": false,
+      "project_url_cited": false,
+      "date": "2026-08-30"
+    },
+    {
+      "answer_id": "ai_ovw_zakazat_evakuator_001",
+      "prompt": "заказать эвакуатор",
+      "provider": "google",
+      "model": "ai_overview",
+      "target_geo": "Tashkent, Uzbekistan",
+      "user_search_geo": "Tashkent, Uzbekistan",
+      "language": "ru",
+      "answer_text": "Стоимость услуг в Ташкенте: Легковой автомобиль — от 150 000-250 000 сум за городскую эвакуацию (в среднем до 400 000 сум). Спецтехника и грузовики — от 700 000 сум.",
+      "citation_url": "https://perevozka24.uz",
+      "citation_title": "Перевозка-24 UZ",
+      "brand_mentioned": false,
+      "project_url_cited": false,
+      "date": "2026-08-30"
     }
   ],
   "serp_ai_analysis": {
@@ -3838,8 +4133,8 @@
       "EVAKUATOR.UZ",
       "OOO MADAT LOGISTICS"
     ],
-    "serp_row_count": 58,
-    "ai_answer_row_count": 3,
+    "serp_row_count": 83,
+    "ai_answer_row_count": 6,
     "project_serp_hits": [
       {
         "query": "evakuator",
@@ -3870,50 +4165,74 @@
         "snippet": "Рейтинг 4.4 (14 отзывов в Google). Услуги эвакуатора в Ташкенте. Адрес: Мирзо-Улугбекский р-он, ул. Ж. Обидовой 9, 25, Tashkent. Телефон: 94 666 66 63. Часы: Круглосуточно. Обслуживаемая территория: Ташкент и окрестности. Также показан виджет 'Отзывы в интернете' со ссылкой на Перевозка-24 UZ (38 отзывов) — возможно смешение данных с другим бизнесом, требует проверки в самой карточке.",
         "source_type": "business_profile",
         "cited_in_ai": false
+      },
+      {
+        "query": "evakuator xizmati",
+        "engine": "yandex",
+        "position": 0,
+        "url": "https://evakuator.uz",
+        "title": "Evakuator.uz — Yandex Business Card (наш бизнес)",
+        "snippet": "Рейтинг 4.2 (3 отзыва). ул. Шахриабад 9 Мирзо-Улугбекский район Ташкент. Телефон +998 94 66X XX XX. Telegram oybek_mahmudovich. Отзывы: Рома Ж.Д. 5★, Ойбек Исаев 5★, Fazliddinov Firdavs 1★ 'Не везде есть филиалы и дорого'.",
+        "source_type": "business_profile",
+        "cited_in_ai": false
+      },
+      {
+        "query": "эвакуатор рядом",
+        "engine": "google",
+        "position": 1,
+        "url": "https://evakuator.uz",
+        "title": "Эвакуатор в Ташкенте - EVAKUATOR.UZ (Google Business Profile, наш бизнес)",
+        "snippet": "Рейтинг 4.4 (14 отзывов). Услуги эвакуатора. Работает более 15 лет. Tashkent. Круглосуточно. 94 666 66 63. Отзыв клиента: 'Спасибо большое, привезли быстро и по разумной цене'.",
+        "source_type": "business_profile",
+        "cited_in_ai": false
       }
     ],
     "project_url_citation_count": 0,
-    "answer_body_brand_mentions": 0,
+    "answer_body_brand_mentions": 1,
     "top_domains": [
       {
         "value": "perevozka24.uz",
-        "count": 8
-      },
-      {
-        "value": "evakuator-tashkent.uz",
-        "count": 6
+        "count": 13
       },
       {
         "value": "olx.uz",
+        "count": 10
+      },
+      {
+        "value": "evakuator-tashkent.uz",
+        "count": 8
+      },
+      {
+        "value": "avtoelon.uz",
         "count": 6
+      },
+      {
+        "value": "166.uz",
+        "count": 5
+      },
+      {
+        "value": "evakuator.uz",
+        "count": 5
       },
       {
         "value": "m.olx.uz",
         "count": 5
       },
       {
-        "value": "166.uz",
-        "count": 3
-      },
-      {
-        "value": "avtoelon.uz",
-        "count": 3
-      },
-      {
-        "value": "evakuator.uz",
-        "count": 3
-      },
-      {
         "value": "yandex.uz",
+        "count": 4
+      },
+      {
+        "value": "auto.ustabor.uz",
         "count": 3
       },
       {
         "value": "birbir.uz",
-        "count": 2
+        "count": 3
       },
       {
-        "value": "auto.ustabor.uz",
-        "count": 1
+        "value": "litro.uz",
+        "count": 2
       },
       {
         "value": "evacuator.avtoapp.ru",
@@ -3921,10 +4240,6 @@
       },
       {
         "value": "glotr.uz",
-        "count": 1
-      },
-      {
-        "value": "litro.uz",
         "count": 1
       },
       {
@@ -3939,139 +4254,143 @@
     "cited_urls": [
       {
         "value": "https://166.uz",
-        "count": 4
+        "count": 6
       },
       {
         "value": "https://olx.uz",
+        "count": 4
+      },
+      {
+        "value": "https://perevozka24.uz",
         "count": 2
       }
     ],
     "title_term_patterns": [
       {
         "value": "эвакуатор",
-        "count": 31
-      },
-      {
-        "value": "ташкент",
-        "count": 19
+        "count": 42
       },
       {
         "value": "evakuator",
-        "count": 17
+        "count": 29
+      },
+      {
+        "value": "ташкент",
+        "count": 26
       },
       {
         "value": "вызвать",
-        "count": 12
+        "count": 16
+      },
+      {
+        "value": "google",
+        "count": 13
       },
       {
         "value": "ташкенте",
+        "count": 13
+      },
+      {
+        "value": "эвакуатора",
+        "count": 12
+      },
+      {
+        "value": "услуги",
         "count": 10
+      },
+      {
+        "value": "business",
+        "count": 9
       },
       {
         "value": "pack",
         "count": 9
       },
       {
-        "value": "эвакуатора",
+        "value": "вами",
         "count": 9
       },
       {
         "value": "конкурент",
-        "count": 8
-      },
-      {
-        "value": "google",
-        "count": 7
-      },
-      {
-        "value": "вами",
-        "count": 7
+        "count": 9
       },
       {
         "value": "рядом",
-        "count": 7
+        "count": 9
       },
       {
         "value": "бизнес",
-        "count": 6
-      },
-      {
-        "value": "услуги",
-        "count": 6
-      },
-      {
-        "value": "business",
-        "count": 5
-      },
-      {
-        "value": "1331",
-        "count": 4
-      },
-      {
-        "value": "narxlar",
-        "count": 4
+        "count": 8
       },
       {
         "value": "profile",
-        "count": 4
+        "count": 7
       },
       {
-        "value": "toshkentda",
-        "count": 4
-      },
-      {
-        "value": "цены",
-        "count": 4
-      },
-      {
-        "value": "avtoelon",
-        "count": 3
-      },
-      {
-        "value": "menga",
-        "count": 3
+        "value": "xizmati",
+        "count": 7
       },
       {
         "value": "overview",
-        "count": 3
-      },
-      {
-        "value": "xaritada",
-        "count": 3
-      },
-      {
-        "value": "yaqin",
-        "count": 3
+        "count": 6
       },
       {
         "value": "zbekistonda",
-        "count": 3
-      },
-      {
-        "value": "источник",
-        "count": 3
+        "count": 6
       },
       {
         "value": "обзор",
-        "count": 3
+        "count": 6
       },
       {
-        "value": "цитирования",
-        "count": 3
+        "value": "1331",
+        "count": 5
       },
       {
-        "value": "эвакуаторов",
-        "count": 3
+        "value": "avtoelon",
+        "count": 5
       },
       {
-        "value": "auto",
-        "count": 2
+        "value": "avtomobil",
+        "count": 5
+      },
+      {
+        "value": "narxlar",
+        "count": 5
+      },
+      {
+        "value": "toshkentda",
+        "count": 5
+      },
+      {
+        "value": "xizmatlari",
+        "count": 5
+      },
+      {
+        "value": "цены",
+        "count": 5
+      },
+      {
+        "value": "menga",
+        "count": 4
+      },
+      {
+        "value": "toshkent",
+        "count": 4
+      },
+      {
+        "value": "xaritada",
+        "count": 4
+      },
+      {
+        "value": "yaqin",
+        "count": 4
       }
     ],
     "retrieval_citation_brand_split": {
-      "ordinary_serp_presence": 3,
+      "ordinary_serp_presence": 5,
       "final_citation_source_presence": 0,
-      "answer_body_brand_mentions": 0
+      "answer_body_brand_mentions": 1
     },
     "limitations": [
       "Manual/provider evidence exists; still avoid causal claims from one run."

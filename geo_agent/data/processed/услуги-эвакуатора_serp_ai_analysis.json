@@ -6,8 +6,8 @@
     "EVAKUATOR.UZ",
     "OOO MADAT LOGISTICS"
   ],
-  "serp_row_count": 58,
-  "ai_answer_row_count": 3,
+  "serp_row_count": 83,
+  "ai_answer_row_count": 6,
   "project_serp_hits": [
     {
       "query": "evakuator",
@@ -38,50 +38,74 @@
       "snippet": "Рейтинг 4.4 (14 отзывов в Google). Услуги эвакуатора в Ташкенте. Адрес: Мирзо-Улугбекский р-он, ул. Ж. Обидовой 9, 25, Tashkent. Телефон: 94 666 66 63. Часы: Круглосуточно. Обслуживаемая территория: Ташкент и окрестности. Также показан виджет 'Отзывы в интернете' со ссылкой на Перевозка-24 UZ (38 отзывов) — возможно смешение данных с другим бизнесом, требует проверки в самой карточке.",
       "source_type": "business_profile",
       "cited_in_ai": false
+    },
+    {
+      "query": "evakuator xizmati",
+      "engine": "yandex",
+      "position": 0,
+      "url": "https://evakuator.uz",
+      "title": "Evakuator.uz — Yandex Business Card (наш бизнес)",
+      "snippet": "Рейтинг 4.2 (3 отзыва). ул. Шахриабад 9 Мирзо-Улугбекский район Ташкент. Телефон +998 94 66X XX XX. Telegram oybek_mahmudovich. Отзывы: Рома Ж.Д. 5★, Ойбек Исаев 5★, Fazliddinov Firdavs 1★ 'Не везде есть филиалы и дорого'.",
+      "source_type": "business_profile",
+      "cited_in_ai": false
+    },
+    {
+      "query": "эвакуатор рядом",
+      "engine": "google",
+      "position": 1,
+      "url": "https://evakuator.uz",
+      "title": "Эвакуатор в Ташкенте - EVAKUATOR.UZ (Google Business Profile, наш бизнес)",
+      "snippet": "Рейтинг 4.4 (14 отзывов). Услуги эвакуатора. Работает более 15 лет. Tashkent. Круглосуточно. 94 666 66 63. Отзыв клиента: 'Спасибо большое, привезли быстро и по разумной цене'.",
+      "source_type": "business_profile",
+      "cited_in_ai": false
     }
   ],
   "project_url_citation_count": 0,
-  "answer_body_brand_mentions": 0,
+  "answer_body_brand_mentions": 1,
   "top_domains": [
     {
       "value": "perevozka24.uz",
-      "count": 8
-    },
-    {
-      "value": "evakuator-tashkent.uz",
-      "count": 6
+      "count": 13
     },
     {
       "value": "olx.uz",
+      "count": 10
+    },
+    {
+      "value": "evakuator-tashkent.uz",
+      "count": 8
+    },
+    {
+      "value": "avtoelon.uz",
       "count": 6
+    },
+    {
+      "value": "166.uz",
+      "count": 5
+    },
+    {
+      "value": "evakuator.uz",
+      "count": 5
     },
     {
       "value": "m.olx.uz",
       "count": 5
     },
     {
-      "value": "166.uz",
-      "count": 3
-    },
-    {
-      "value": "avtoelon.uz",
-      "count": 3
-    },
-    {
-      "value": "evakuator.uz",
-      "count": 3
-    },
-    {
       "value": "yandex.uz",
+      "count": 4
+    },
+    {
+      "value": "auto.ustabor.uz",
       "count": 3
     },
     {
       "value": "birbir.uz",
-      "count": 2
+      "count": 3
     },
     {
-      "value": "auto.ustabor.uz",
-      "count": 1
+      "value": "litro.uz",
+      "count": 2
     },
     {
       "value": "evacuator.avtoapp.ru",
@@ -89,10 +113,6 @@
     },
     {
       "value": "glotr.uz",
-      "count": 1
-    },
-    {
-      "value": "litro.uz",
       "count": 1
     },
     {
@@ -107,139 +127,143 @@
   "cited_urls": [
     {
       "value": "https://166.uz",
-      "count": 4
+      "count": 6
     },
     {
       "value": "https://olx.uz",
+      "count": 4
+    },
+    {
+      "value": "https://perevozka24.uz",
       "count": 2
     }
   ],
   "title_term_patterns": [
     {
       "value": "эвакуатор",
-      "count": 31
-    },
-    {
-      "value": "ташкент",
-      "count": 19
+      "count": 42
     },
     {
       "value": "evakuator",
-      "count": 17
+      "count": 29
+    },
+    {
+      "value": "ташкент",
+      "count": 26
     },
     {
       "value": "вызвать",
-      "count": 12
+      "count": 16
+    },
+    {
+      "value": "google",
+      "count": 13
     },
     {
       "value": "ташкенте",
+      "count": 13
+    },
+    {
+      "value": "эвакуатора",
+      "count": 12
+    },
+    {
+      "value": "услуги",
       "count": 10
+    },
+    {
+      "value": "business",
+      "count": 9
     },
     {
       "value": "pack",
       "count": 9
     },
     {
-      "value": "эвакуатора",
+      "value": "вами",
       "count": 9
     },
     {
       "value": "конкурент",
-      "count": 8
-    },
-    {
-      "value": "google",
-      "count": 7
-    },
-    {
-      "value": "вами",
-      "count": 7
+      "count": 9
     },
     {
       "value": "рядом",
-      "count": 7
+      "count": 9
     },
     {
       "value": "бизнес",
-      "count": 6
-    },
-    {
-      "value": "услуги",
-      "count": 6
-    },
-    {
-      "value": "business",
-      "count": 5
-    },
-    {
-      "value": "1331",
-      "count": 4
-    },
-    {
-      "value": "narxlar",
-      "count": 4
+      "count": 8
     },
     {
       "value": "profile",
-      "count": 4
+      "count": 7
     },
     {
-      "value": "toshkentda",
-      "count": 4
-    },
-    {
-      "value": "цены",
-      "count": 4
-    },
-    {
-      "value": "avtoelon",
-      "count": 3
-    },
-    {
-      "value": "menga",
-      "count": 3
+      "value": "xizmati",
+      "count": 7
     },
     {
       "value": "overview",
-      "count": 3
-    },
-    {
-      "value": "xaritada",
-      "count": 3
-    },
-    {
-      "value": "yaqin",
-      "count": 3
+      "count": 6
     },
     {
       "value": "zbekistonda",
-      "count": 3
-    },
-    {
-      "value": "источник",
-      "count": 3
+      "count": 6
     },
     {
       "value": "обзор",
-      "count": 3
+      "count": 6
     },
     {
-      "value": "цитирования",
-      "count": 3
+      "value": "1331",
+      "count": 5
     },
     {
-      "value": "эвакуаторов",
-      "count": 3
+      "value": "avtoelon",
+      "count": 5
     },
     {
-      "value": "auto",
-      "count": 2
+      "value": "avtomobil",
+      "count": 5
+    },
+    {
+      "value": "narxlar",
+      "count": 5
+    },
+    {
+      "value": "toshkentda",
+      "count": 5
+    },
+    {
+      "value": "xizmatlari",
+      "count": 5
+    },
+    {
+      "value": "цены",
+      "count": 5
+    },
+    {
+      "value": "menga",
+      "count": 4
+    },
+    {
+      "value": "toshkent",
+      "count": 4
+    },
+    {
+      "value": "xaritada",
+      "count": 4
+    },
+    {
+      "value": "yaqin",
+      "count": 4
     }
   ],
   "retrieval_citation_brand_split": {
-    "ordinary_serp_presence": 3,
+    "ordinary_serp_presence": 5,
     "final_citation_source_presence": 0,
-    "answer_body_brand_mentions": 0
+    "answer_body_brand_mentions": 1
   },
   "limitations": [
     "Manual/provider evidence exists; still avoid causal claims from one run."
